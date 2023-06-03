@@ -1,0 +1,332 @@
+UC_id,new_id (old),ID (old),Use case,Subcategory,Indicator,Information needs,Suggested OCDS fields,OCDS extension,Rationale and Additional Context,Observations,Calculation method
+UC001,,,Market Opportunity,Market description,Total number of procedures,-Procedure ID,ocid,,The total number of procedures indicates the size of the procurement market,,Count of unique procedures
+UC002,,,Market Opportunity,Market description,Total number of procuring entities,-Procuring entity (buyer) ID,"ocid, tender/procuringEntity/name OR buyer/name OR parties/identifier/id and parties/identifier/name with parties/roles=buyer",,The total number of procuring entities or buyers indicates the size of the procurement market,,Count of unique procuring entities (or buyers)
+UC003,,,Market Opportunity,Market description,Total number of unique bidders,- Bidder information,"ocid, tender/tenderers/id OR bids/details/tenderers/id",,A higher number of unique bidders may indicate greater system openness and potential for competition. ,,Count of unique bidders
+UC004,,,Market Opportunity,Market description,Total number of awarded suppliers,"- Suppliers information
+- Award status","awards/id, awards/suppliers/id, awards/suppliers/name, awards/status",,A higher number of awarded suppliers may indicate greater system openness and potential for competition. ,,Count of unique awarded suppliers
+UC005,,,Market Opportunity,Market description,Total number of procedures by year or month,"-Procedure ID
+-Date","ocid, date OR tender/tenderPeriod/startDate",,The total number of procedures by period can help identify if there are seasonal patterns in public purchases,,Count of total number of procedures by period
+UC006,,,Market Opportunity,Market description,Total value awarded,"-Award value
+-Award status","awards/status, awards/value/amount, awards/value/currency",,The value awarded indicates the size of the procurement market,,Sum of value awarded
+UC007,,,Market Opportunity,Market description,Share of tenders by status,-Tender status,"ocid, tender/status",,A higher proportion of canceled tenders can be a sign of inefficiency of the contracting process,,# of tenders by status / # of total tenders
+UC008,,,Market Opportunity,Market description,Number of procedures by item type,-Item classifications,"ocid, tender/items/classification/id, tender/items/classification/scheme",,The total number of procedures by item type helps identify the size of specific markets. ,,# of tenders by item type 
+UC009,,,Market Opportunity,Market description,Proportion of tenders by procurement category,-Procurement category,tender/mainProcurementCategory,,The total number of procedures by category helps identify the size of specific markets. ,,# of tenders by prourement category / # of total tenders
+UC010,,,Market Opportunity,Market description,Number of tenders by procedure type,-Procurement method,"ocid, tender/procurementMethod",,"A higher percent of competitive procedures to all procedures may indicate greater openness of award procedures.  Similarly, a higher proportion of direct awards might signal a risk.",,# of tenders by procedure / # of total tenders
+UC011,3,M017,Market Opportunity,Competition,Percent of tenders awarded by means of competitive procedures,"- Procurement method used
+- Award status","ocid
+tender/procurementMethod
+awards/status",,"A higher total percent of tenders awarded through competitive procedures may indicate greater openness of award procedures. Use of competitive procedures may allow easier access for market participants to public procurement and, therefore, may result in increased competition.",,Number procedures awarded by competitive procedures/ all procedures
+UC012,1,M015,Market Opportunity,Competition,Percent of contracts awarded under each procedure type,"- Contract ID and status
+- Procurement method used","ocid
+tender/procurementMethod
+(contracts/id
+contracts/status) OR (awards/id, awards/status)",,"A higher percent of competitive procedures to all procedures may indicate greater openness of award procedures.  Similarly, a higher proportion of direct awards might signal a risk.",,# of contracts by procedure / # of total contracts
+UC013,2,M016,Market Opportunity,Competition,Total contracted value awarded under each procedure type,"- Contract ID, status and value
+- Procurement method used","ocid
+tender/procurementMethod
+(contracts/id
+contracts/status
+contract/value/amount
+contract/value/currency) OR (awards/id
+awards/status
+awards/value/amount
+awards/value/currency)",,A higher total sum awarded through competitive procedures may indicate greater openness of award procedures,, value awarded by procedure /Total value awarded
+UC014,4,M018,Market Opportunity,Competition,Total awarded value of tenders awarded by means of competitive procedures,"- Procurement method used
+- Award status and value","ocid
+tender/procurementMethod
+awards/status
+awards/value/amount
+awards/value/currency",,"A higher total sum awarded through competitive procedures may indicate greater openness of award procedures. Use of competitive procedures may allow easier access for market participants to public procurement and, therefore, may result in increased competition.",,Procurement value awarded by competitive procedures/ all procurement value awarded
+UC015,5,,Market Opportunity,Competition,Proportion of single bid tenders,"-Tenderers information
+-Procurement method","ocid
+tender/procurementMethod
+tender/numberOfTenderers OR tender/tenderers/id",,"Having a high proportion of single bids in tenders that should be competitive is 
+considered a risk in procurement, since it might signal limited competition, a low capacity of procurement agencies, result in higher prices, lower quality, weaker political accountability",,Count of tenders with a single bid / Total number of competitive tenders
+UC016,6,,Market Opportunity,Competition,Proportion of value awarded in single bid tenders vs competitive tenders,"-Tenderers information
+-Procurement method
+-Award values
+-Award status","ocid
+tender/procurementMethod
+tender/numberOfTenderers OR tender/tenderers/id
+awards/status
+awards/value/amount
+awards/value/currency",,"Having a higher value awarded in non competitive tenders may signal less competition in high value tenders, or higher prices as a result of no competition.
+",,Value awarded in tenders with a single bid / Total value awarded in competitive tenders
+UC017,7,M006,Market Opportunity,Competition,Mean number of bidders per tender,"- Tender ID
+- Bidders information","ocid
+tender/procurementMethod
+tender/numberOfTenderers OR tender/tenderers/id",,A higher mean number of bidders per tender may indicate limited sole-sourcing and that tenders have fairer competition. It may indicate increased competition and trust in the contracting system,,Average count of bidders/Total tenders or lots
+UC018,8,M007,Market Opportunity,Competition,Median number of bidders per tender,"- Tender ID
+- Bidders information","ocid
+tender/procurementMethod
+tender/numberOfTenderers OR tender/tenderers/id",,A higher median number of bidders per tender may indicate limited sole-sourcing and that tenders fairer competition. It may indicate increased competition and trust in the contracting system,,Median count of all bidders / Total number of tenders
+UC019,9,M005,Market Opportunity,Competition,Mean number of bidders by item type,"- Tenderers information
+- Item information","ocid
+tender/procurementMethod
+tender/numberOfTenderers OR tender/tenderers/id
+tender/items/classification/id
+tender/items/classification/scheme",,"The higher the mean number of unique bidders who provide a certain item, the more competitive the overall procurement system may be.",,Average Number of bidders / Total tenders per item
+UC020,10,,Market Opportunity,Competition,Number of suppliers by item type,"-Suppliers information
+-Items information","award/id
+awards/suppliers/id
+awards/suppliers/name
+(awards/items/classification/id
+awards/items/classification/scheme) OR
+(tender/items/classification/id, tender/items/classification/scheme) OR (contract/items/classification/id, contract/items/classification/scheme)",,"Comparing the total number of awards with the total number of suppliers for each item allows to identify items with more or less competition. A higher value in the award/supplier rate per item, suggests suppliers concentrate a high number of awards. In addition, having fewer suppliers by item can increase the risk of bid rigging, since this practice is more likely to occur when a small number of companies supply the good or service.
+",,Count unique suppliers by item
+UC021,11,M010,Market Opportunity,Competition,Number of new bidders in a system ,"- Bidders Information
+- Tender start date","tender/id
+tender/tenderers/id
+tender/tenderPeriod/startDate",,A higher number of new (first-time) bidders may indicate greater system openness and potential for competition. New bidders may also indicate increased trust in the contracting system.  Note: historical information of at least two periods  is needed,,Count of new bidders in the system
+UC022,12,M012,Market Opportunity,Competition,Percent of new bidders to all bidders ,"- Bidders Information
+- Tender start date","tender/id
+tender/tenderers/id
+tender/tenderPeriod/startDate",,"When used with other business engagement indicators, growth in the percent of new bidders to all bidders can signal changes in level of bidder confidence in and awareness of the contracting system",,Number of  new bidders / all bidders
+UC023,13,M004,Market Opportunity,Competition,Percent of tenders with at least three participants deemed qualified,"- Tenderers information
+- Details on the bid status (disqualification)","ocid
+bids/details/tenderers/id
+bids/details/id
+bids/details/status",Bid statistics and details,"A higher percent of tenders with three or more bidders may signal a highly competitive tenders, which may be related to effective preparation of a buyer and could ensure a better market price
+",,Number of tenders with at least three participants deemed qualified / total number of tender with three of more participants. 
+UC024,14,M002,Market Opportunity,Competition,Mean percent of bids which are disqualified,"- Bid information
+- Disqualification information","tender/id
+bids/details/id
+bids/details/status",Bid statistics and details,"A higher mean percent of bidders disqualified from participation may indicate that a buyer may subject bidders to unjustified disqualification. This can reduce confidence in a buyer and, as a result, reduce the number of bidders wishing to bid for future tenders with this buyer",,Number of disqualified bids / Total bids
+UC025,15,M001,Market Opportunity,Competition,Percent of contracts awarded to top 10 suppliers with largest contracted totals,"- Supplier ID
+- Award information on winning supplier
+-Total award or contract values","awards/id
+awards/suppliers/id
+awards/suppliers/name
+(contracts/id
+contracts/awardID
+contracts/value/amount
+contracts/value/currency) OR
+(awards/id,awards/value/amount, awards/value/currency)",,A higher percent of contracts awarded to the top suppliers may indicate weaker market opportunity. Analyzing the concentration of overall contacted value gives insight into how inclusive and competitive the overall marketplace is,,"Number of contracts awarded to a supplier / Total number of contracts 
+
+Total value of contracts awarded to a supplier/ Total value awarded 
+Filter top 10."
+UC026,16,M008,Market Opportunity,Competition,Mean number of unique suppliers per buyer,"- Procuring Entity
+- Supplier ID","ocid
+tender/procuringEntity/name OR buyer/name OR parties/identifier/id
+parties/roles (=buyer)
+awards/suppliers/id
+awards/suppliers/name",,A higher mean number of unique suppliers can indicate greater market fairness. Rotating suppliers and a larger number of suppliers per entity may be measures of system openness and competition ,,Unique count of suppliers/ all procuring entities
+UC027,17,M009,Market Opportunity,Competition,Number of new awarded suppliers ,"- Suppliers information
+- Award date
+","awards/id
+awards/suppliers/id
+awards/suppliers/name
+awards/date",,A higher number of new (first-time) suppliers may indicate greater system openness and potential for competition. New suppliers may also indicate increased trust in the contracting system.  Note: historical information of at least two periods  is needed,,Count of unique awarded suppliers
+UC028,18,M013,Market Opportunity,Competition,Percent of awards awarded to new suppliers,"- Suppliers information
+- Award date
+","awards/id
+awards/suppliers/id
+awards/suppliers/name
+awards/date",,"A higher percent of new (first-time) suppliers may indicate greater system openness and potential for competition. This indicator is more powerful when one also considers the age of bidding companies, as new young bidders could, in certain contexts, be a risk to integrity",,Number of new suppliers / all suppliers
+UC029,19,M014,Market Opportunity,Competition,Total awarded value awarded to new suppliers,"- Suppliers information
+- Contracted amount information
+- Award date","awards/id
+awards/suppliers/id
+awards/suppliers/name
+awards/date
+awards/value/amount
+awards/value/currency ",,"A higher awarded value to new (first-time) suppliers may indicate greater system openness and potential for competition. This indicator is more powerful when one also considers the age of bidding companies, as new young bidders could, in certain contexts, be a risk to integrity","Alternatively these fields can be used: 
+contracts/awardID
+contracts/value/amount
+contracts/value/currency",Value awarded to new suppliers / Value awarded to all suppliers
+UC030,20,M019,Market Opportunity,Competition,Percent of new suppliers to all suppliers,"- Suppliers information
+- Date of the awards","awards/id
+awards/suppliers/id
+awards/suppliers/name
+awards/date",,"A higher percent of new (first-time) suppliers may indicate greater system openness and potential for competition. This indicator is more powerful when one also considers the age of bidding companies, as new young bidders could, in certain contexts, be a risk to integrity",,Number of new suppliers / all suppliers
+UC031,21,M011,Market Opportunity,Competition,Percent of growth of new awarded suppliers in a system,"- Suppliers information
+- Date of the awards","awards/id
+awards/suppliers/id
+awards/suppliers/name
+awards/date",,A higher number of new (first-time) suppliers may indicate greater system openness and potential for competition. New suppliers may also indicate increased trust in the contracting system.  Note: historical information of at least two periods  is needed,,Count of new suppliers in a system that haven't been awarded in the previous period
+UC032,22,M020,Market Opportunity,Competition,Percent of total awarded value awarded to recurring suppliers,"- Suppliers information
+- Award date
+- Award values","awards/id
+awards/suppliers/id
+awards/suppliers/name
+awards/date
+awards/value/amount
+awards/value/currency ",,A higher percent of total sum awarded to repeat suppliers may indicate lesser system openness and potential for competition.  ,,Value awarded to recurring contractors / Total value awarded
+UC033,24,M021,Market Opportunity,Competition,Mean number of bids necessary to win,"- Bidder information
+- Winner information","ocid
+tender/tenderers/id
+awards/suppliers/id
+awards/suppliers/name",,A lower mean number of bids may indicate a higher degree of market fairness. This indicator is more powerful when one also considers mean number of bids per tender,,Number of bids / Number of wins
+UC034,25,,Market Opportunity,Competition,Market concentration (market share of the largest company in the market),"-Suppliers information
+-Items information for market segmentation","awards/suppliers/id
+awards/suppliers/name
+awards/value/amount
+awards/value/currency
+awards/items/classification/id
+awards/items/classification/scheme",,"Firms that concentrate most of the value awarded may signal less competition in particular markets. Another measure of market concentration is the Herfindahl-Hirschman Index (HHI), that is the summary of the squared market shares in each market. The indicator ranges from 0 to 10000. Values under 1500 points indicate non-concentrated market. Values between 1500 and 2500 indicate slightly concentrated market and values over 2500 indicate highly concentrated market. ",,"Market share = total value awarded to a supplier / total value awarded for the whole market
+
+HHI= Sum(market share^2)"
+UC035,,,Market Opportunity,Supplier performance,Proportion of contracts awarded by supplier by non competitive procedures,"-Procurement method used
+-Supplier ID
+-Award status","ocid, tender/procurementMethod, awards/status, awards/suppliers/id, awards/suppliers/name",,"A higher total percent of tenders awarded through competitive procedures may indicate greater openness of award procedures. Use of competitive procedures may allow easier access for market participants to public procurement and, therefore, may result in increased competition.",,"For each supplier: 
+# of awards by procurement method/ # of total awards"
+UC036,,,Market Opportunity,Supplier performance,Region of the supplier,-Region of the supplier,"parties/roles, parties/identifier/id, parties/address/region OR parties/address/addressDetails/region",,Knowing the region of the suppliers helps identify regional patterns in the the awarding of contracts.  Having suppliers from different regions can indicate a higher regional diversity of the procurement market. ,,# of suppliers by region
+UC037,,,Market Opportunity,Supplier performance,Number of bids submitted by supplier,"- Bidder information
+- Supplier information","awards/suppliers/id, tender/tenderers/id OR bids/details/tenderers/id",,The number of bids submitted by a supplier is an indicator of its market participation.  This indicator is more powerful when one also considers the number of bids won (success rate). ,,Count of number of bids by supplier
+UC038,23,,Market Opportunity,Supplier performance,Success rate of bidders,"- Bidder information
+- Winner information","ocid
+tender/tenderers/id
+awards/suppliers/id
+awards/suppliers/name",,A high number of companies with a low success rate may indicate a lower degree of market fairness.  Companies with a low success rate close to zero (always submit bids but never win) or a high success rate (always win the tender) can also suggest a suspicious bidding pattern and possible bid rigging. ,,Count of number of awarded contracts of a supplier/ Count of total number of bids  of a supplier
+UC039,,,Market Opportunity,Supplier performance,Number of unique items classifications awarded by supplier,"- Supplier information
+- Item classifications","awards/id, awards/suppliers/id, awards/suppliers/name, (awards/items/classification/id, awards/items/classification/scheme) OR
+(tender/items/classification/id, tender/items/classification/scheme) OR
+(contract/items/classification/id, contract/items/classification/scheme",,The number of unique item classifications by supplier  indicates the diversity or specialization of items it can supply.  A higher diversity of goods and services can sometimes be considered a risk indicator since the supplier might have delivery problems. ,,Count of unique item classifications by supplier
+UC040,,,Market Opportunity,Supplier performance,Total value awarded by supplier,"- Supplier ID
+- Award information on winning supplier
+-Total award or contract values","awards/id, awards/suppliers/id, awards/suppliers/name, awards/status, contracts/id, contracts/awardID, contracts/value/amount, contracts/value/currency",,A higher awarded value to a supplier may indicate weaker market opportunity. Analyzing the concentration of overall contacted value gives insight into how inclusive and competitive the overall marketplace is,,Sum of total value awarded by supplier
+UC041,,,Market Opportunity,Supplier performance,Share of total value awarded by supplier,"- Supplier ID
+- Award information on winning supplier
+-Total award or contract values","awards/id, awards/suppliers/id, awards/suppliers/name, awards/status, contracts/id, contracts/awardID, contracts/value/amount, contracts/value/currency",,A higher percent of contracts awarded to a supplier may indicate weaker market opportunity. Analyzing the concentration of overall contacted value gives insight into how inclusive and competitive the overall marketplace is,,Sum of total value awarded by supplier / Total value awarded
+UC042,,,Market Opportunity,Supplier performance,Total number of contracts awarded by supplier,"- Supplier ID
+- Award information on winning supplier
+-Contracts awarded ","awards/id, awards/suppliers/id, awards/suppliers/name, contracts/status, contracts/id, contracts/awardID",,A higher number of contracts awarded to a supplier may indicate weaker market opportunity. Analyzing the concentration of overall contacted value gives insight into how inclusive and competitive the overall marketplace is,,Count of number of contracts awarded by supplier
+UC043,,,Market Opportunity,Supplier performance,Number of procuring entities by supplier,"- Supplier ID
+-Procuring Entity or Buyer","ocid, awards/suppliers/id, awards/suppliers/name, tender/procuringEntity/name OR buyer/name OR parties/identifier/id with parties/roles=buyer",,,,Count of unique procuring entities (or buyers) by supplier
+UC044,,,Market Opportunity,Supplier performance,Share of single bid awards by supplier,"-Procurement method used
+-Supplier ID
+-Award status","ocid, awards/suppliers/id, awards/suppliers/name, awards/status, tender/procurementMethod, tender/numberOfTenderers OR tender/tenderers/id",,"Having a high proportion of single bids in tenders that should be competitive is considered a risk in procurement, since it might signal limited competition, a low capacity of procurement agencies, result in higher prices, lower quality, weaker political accountability",,# of single bid awards/ Total # of competitive awards
+UC045,26,M022,Public Integrity,,Percent of tenders with linked procurement plans,- Listing of procurement plans,"tender/id
+tender/documents/documentType (=procurementPlan)",,"A higher percent of tenders with procurement plans may indicate greater integrity. Planning information such as procurement plans gives a more robust vision of the intended contracting process, and is therefore a critical part of having transparency across the entire contracting process",,Tenders with linked procurement plans / Total number of tenders
+UC046,27,M023,Public Integrity,,Percent of contracts which publish information on debarments,- Debarment list,"contracts/id
+contracts/implementation/documents/documentType (=debarments)",,"A higher percent of tenders with debarment information may indicate greater integrity.  Information about debarments gives insight into the quality of the contracting process, and access to this information can lead to more transparent contracting process",,Contracts with information on debarments / Total number of contracts
+UC047,28,M024,Public Integrity,,The percent of tenders for which the tender documentation was added after publication of the announcement ,"- Tender documentation information
+- Tender documentation dates","tender/id
+tender/documents/documentType (=tenderNotice)
+tender/documents/documentType (=biddingDocuments)
+tender/documents/datePublished",,"A higher percent of tenders for which tender documentation was added after the announcement publication may indicate reduced integrity. The ease of availability of tender documentation can be a sign of the overall quality of the procedure. A tender for which the announcement was published without timely disclosure of the documentation, can indicate inadequate preparation by the buyer. Buyers who do not publish robust information can lose potential valid bidders who could not determine their eligibility for or interest in participation due to lack of a detailed description of the subject of procurement in the documentation. Publishing timely information gives more time for the potential bidders to familiarize themselves with the buyer's needs",,Number of tenders that added documentation after the announcement /Total tenders
+UC048,29,M025,Public Integrity,,Mean number of contract amendments per buyer,"- Buyer information
+- Contract amendment information","ocid
+tender/procuringEntity/name OR buyer/name OR parties/identifier/id
+parties/roles (=buyer)
+contracts/id
+contracts/amendments",,"A higher mean number of amendments may indicate reduced integrity. Contract instability may be an indictator of corruption in certain cases. Integrity is usually maximized when the final terms of the contract, the original contract, and the tender correspond closely. The risk with amendments is that suppliers may be chosen on the basis of lowest price, but then increase their prices later on. This is a legally permitted and difficult-to-monitor way to decrease the integrity of the procurement process",,Number of contract amendments / Total contracts  per buyer
+UC049,30,M026,Public Integrity,,"Percent of tenders which have been closed for more than 30 days, but whose basic awards information is not published","- Tender close date
+- Award date
+- Award information (date, status, values and suppliers)","tender/id
+tender/tenderPeriod/endDate
+awards/id
+awards/date
+awards/status
+awards/value/amount
+awards/suppliers/id 
+awards/suppliers/name",,"A higher rate of tenders without timely awards information may signal lack of integrity. No awards information can signal that the tender process was not fully completed. If it was completed, the interaction between the bidders and buyer is not transparent, and relevant interested parties cannot monitor the process",,Number of tenders without basic information published after 30 days (if current date -tender end date >=30)  / total tenders
+UC050,31,M027,Public Integrity,,"Percent of awards which are older than 30 days, but whose contract is not published","- Tender information
+- Contract information","awards/id
+awards/date
+contracts/awardID
+contracts/status
+contracts/dateSigned
+contracts/documents/documentType (=contractNotice)",,"A higher rate of awards without contract information may signal lack of integrity. No contract can signal that the tender process was not fully completed. If it was completed, the interaction between the bidders and buyer is not transparent, and relevant interested parties cannot monitor the process",,Number of awards without contract information published after 30 days (if current date -award date >=30)  / total number of awards
+UC051,32,M028,Public Integrity,,Percent of tenders that do not specify place of delivery,"- Tender information
+- Place of delivery information","ocid
+tender/items/deliveryLocation
+tender/items/deliveryAddress",Location ,"A higher rate of tenders without delivery information may signal lack of integrity. If a buyer does not specify the place of delivery of the items needed, it is difficult for potential valid bidders to evaluate their capabilities to deliver, potentially leading to them choosing not to bid",,Number of tenders without delivery location / Total number of tenders
+UC052,33,M029,Public Integrity,,Percent of tenders that do not specify date of delivery,"- Tender milestone information
+- Tender milestone date information","tender/milestones/id
+tender/milestones/type (=delivery)
+tender/milestones/description
+tender/milestones/dueDate",,"A higher rate of tenders without date information may signal lack of integrity. If a buyer does not specify the specifics of the milestones needed and their needed dates of delivery, it is difficult for potential bidders to evaluate their capabilities to deliver, potentially leading to them choosing not to bid",,Number of tenders without delivery date/ Total number of tenders
+UC053,34,M030,Public Integrity,,Percent of tenders with short titles (for example fewer than 10 characters in the title),- Tender title information,"tender/id
+tender/title",,A higher rate of tenders without robust titles may signal lack of integrity. A short or undescriptive tender title reduces the opportunity for potential bidders to find and understand the announcement. This may lead to fewer potential tenderers choosing to bid,,"Number of tender without less that 10 characters in title / Total number of tenders
+*The number of characters could vary depending ont he context.  You can calculate the average number of characters and identify outliers"
+UC054,35,M031,Public Integrity,,Percent of tenders with short descriptions (for instance fewer than 30 characters in the description),- Tender description information,"tender/id
+tender/description",,A higher rate of tenders without robust descriptions may signal lack of integrity. A short or undescriptive tender description reduces the opportunity for potential bidders to find and understand the announcement. This may lead to fewer potential tenderers choosing to bid,,"Number of tender without less that 30 characters in description/ Total number of tenders
+*The number of characters could vary depending ont he context.  You can calculate the average number of characters and identify outliers"
+UC055,36,M032,Public Integrity,,Percent of tenders that do not include detailed item codes or item descriptions,- Tender item information,"tender/id
+tender/items/classification/id
+tender/items/classification/scheme",,A higher rate of tenders without robust item information may signal lack of integrity. Undescriptive item descriptions reduce the opportunity for potential bidders to find and understand the announcement. This may lead to fewer potential tenderers choosing to bid,,Number of tender without item information/ Total number of tenders
+UC056,37,M033,Public Integrity,,Percent of contracts that do not have amendments,- Contract amendments,"contracts/id
+contracts/amendments",,"A higher number of contracts without amendments may signal greater integrity. Contract instability may be an indicator of corruption in certain cases; integrity is usually maximized when the final terms of the tender, award, initial contract, and final contract correspond closely. The risk with amendments is that suppliers may be chosen on the basis of lowest price, but but then increase their prices later. This is a legally permitted and difficult to monitor way to decrease the integrity of the procurement process",,Contracts with amendments / all contracts
+UC057,38,M034,Service Delivery,,Percent of contracts which publish contract implementation details (financial),- Contract Implementation Details (financial),"contracts/implementation/transactions/id
+contracts/implementation/transactions/value/amount
+contracts/implementation/transactions/value/currency",,A higher rate of contracts with financial implementation details may indicate better quality service delivery. Implementation information is critical for analyzing what services and goods are procured with public money. Knowing what stage of financial implementation a contract is in gives critical information about the development process to stakeholders across all sectors and allows for increased monitoring of contracts,,Number of contracts with implementation transactions information / Total number of contacts
+UC058,39,M035,Service Delivery,,Percent of contracts which publish contract implementation details (physical),- Contract Implementation Details (physical),"contracts/implementation/milestones/type
+contracts/implementation/milestones/id
+contracts/implementation/milestones/dueDate
+contracts/implementation/milestones/status",,A higher rate of contracts with physical implementation details may indicate better quality service delivery. Implementation information is critical for analyzing what services and goods are procured with public money. Knowing what stage of physical implementation a contract is in gives critical information about the development process to stakeholders across all sectors and allows for increased monitoring of contracts,,Number of contracts with implementation details published / Total number of contacts
+UC059,40,M036,Internal Efficiency,,Average duration of tendering period (days),"- Tender start date
+- Tender end date","ocid
+tender/tenderPeriod/startDate
+tender/tenderPeriod/endDate",,Longer tender periods and longer time delays between phases of the contracting process can signal inefficiency in the contracting process,,Tender end date - tender start date in days
+UC060,41,M037,Internal Efficiency,,Average duration of decision period (days),"- Tender end date
+- Award date","ocid
+tender/tenderPeriod/endDate
+awards/date",,Longer time delays between phases of the contracting process can signal inefficiency in the contracting process,,award date - tender end date in days
+UC061,42,M038,Internal Efficiency,,Average days from award date to start of implementation,"- Award date
+- Contract start date","awards/id
+awards/date
+awards/contractPeriod/startDate OR
+contracts/awardID
+contracts/period/startDate",,Longer time delays between phases of the contracting process can signal inefficiency in the contracting process,,award date - contract date in days
+UC062,43,M039,Internal Efficiency,,Days between award date and tender start date,"- Tender start start date
+- Award date","ocid
+tender/tenderPeriod/startDate
+awards/date",,Longer time delays between phases of the contracting process can signal inefficiency in the contracting process,,Count of duration between tender notice and award notice
+UC063,44,M040,Internal Efficiency,,Percent of canceled tenders to awarded tenders,"- Number of cancelled tenders
+- Number of awarded tenders","ocid
+tender/status
+awards/status",,A higher proportion of canceled tenders to awarded tenders can be a sign of inefficiency of the contracting process,,Total number of cancelled tenders / Total number of awarded tenders
+UC064,45,M041,Internal Efficiency,,Percent of contracts which are canceled,- Cancelled contracts,"contracts/id
+contracts/status",,A higher rate of cancellation can be a sign of inefficiency of the contracting process,,Total number of cancelled contracts/ Total number of contracts 
+UC065,46,M042,Value for Money,,Price variation of same item across all awards,"- Award value
+-Item classification id, schemes, quantity and units","awards/id
+awards/value/amount
+awards/value/currency
+awards/items/classification/id
+awards/items/classification/scheme
+awards/items/quantity
+awards/items/unit",,Larger variation of price of the same item across different awards can indicate lower value for money. Price differences in the same item across multiple contracting processes can also give information about how competitive and efficient the buying of those items is in a marketplace,,"For the same item, unit and quantity calculate the unit price.  Calculate the average and median price.  Identify outliers "
+UC066,47,M043,Value for Money,,Percent of contracts that exceed budget,"- Estimated price (in the planning stage or tender stage)
+- Total transacted amount:  ideally the actual payment information should be used, but if not available the contract value or award value can be used.","ocid
+contracts/status
+planning/budget/amount/amount OR tender/value/amount
+planning/budget/amount/currency OR tender/value/currency
+awards/value/amount
+awards/value/currency
+contracts/value/amount
+contracts/value/currency
+contracts/implementation/transactions/value/amount
+contracts/implementation/transactions/value/currency",,A higher percentage of contracts with cost and/or time overruns can signal inefficient contracting processes and poorer value for money. Information about cost overruns is important for analyzing overall efficiency,,Contracts with contract value > budget value / Total number of contracts
+UC067,48,M044,Value for Money,,Mean percent overrun of contracts that exceed budget,"- Estimated price
+- Total transacted amount:  ideally the actual payment information should be used, but if not available the contract value or award value can be used.","ocid
+contracts/status
+planning/budget/amount/amount OR tender/value/amount
+planning/budget/amount/currency OR tender/value/currency
+awards/value/amount
+awards/value/currency
+contracts/value/amount
+contracts/value/currency
+contracts/implementation/transactions/value/amount
+contracts/implementation/transactions/value/currency",,A higher percentage of cost and/or time overruns on contracts that exceed budget or milestones can signal inefficient contracting processes and poorer value for money. Information about cost overruns is important for analyzing overall efficiency,,Average total value overrun across all contracts with overruns
+UC068,49,M045,Value for Money,,Total percent savings (difference between budget and contract value),"- Budget value
+- Contract value","ocid
+planning/budget/amount/amount
+planning/budget/amount/currency
+contracts/value/amount
+contracts/value/currency",,"A higher total percent savings may indicate better value for money. Value for money is strengthened when procuring entity can buy a required quality good/service for a lower price and thus generate savings. Generally, the higher competition, the lower price, and the higher value for money",,Difference between budget value and contract value / Budget value
+UC069,50,M046,Value for Money,,Total percent savings (difference between tender value estimate and contract value),"- Tender value
+- Contract value","ocid
+tender/value/amount
+tender/value/currency
+contracts/value/amount
+contracts/value/currency",,"A higher total percent savings may indicate better value for money. Value for money is strengthened when procuring entity can buy a required quality good/service for a lower price and thus generate savings. Generally, the higher competition, the lower price, and the higher value for money",,Difference between tender value and contract value / tender value
+UC070,51,M047,Value for Money,,Percent of contracts completed on time ,"- Contract end date
+- Date of contract status change","contracts/id
+contracts/period/endDate
+contracts/status",,"A higher share of contracts completed on time can be an indicator of good value for money, as the goods and services specified are fully delivered by the original end date of the contract. In some contexts, one can calculate this indicator through analyzing the date of contract status change and the change history of releases. With OCDS, one way to calculate this indicator is a count of contracts whose contract status is ""terminated"" before the contracts/period/endDate over a count of all contracts that have been ""terminated"".",,Count of contracts completed on time / all contracts
+UC071,52,M048,Value for Money,,Share of contracts whose milestones are completed on time,"- Contract milestones
+- Contract milestones deadlines
+- Contract milestones met date","contracts/id
+contracts/implementation/milestones/dueDate
+contracts/implementation/milestones/dateMet",,"A higher share of contracts with milestones completed on time can be an indicator of good value for money, as the goods and services specified are fully delivered by the original end date of the contract. In some contexts, one can calculate this indicator through analyzing the date of contract status change and the change history of releases.",,Count of contracts with milestones completed on time / all contracts
