@@ -1,0 +1,676 @@
+"project_id","bid_submission_id","title","financial_year","procurement_method","bid_submission_id","bid_invitation_id","provider_id","provider_name","nationality","nationality_status","best_evaluated_bidder","bid_amount"
+"23","223901","Design and Build of Kisoro - Rubuguri - Muko/Nteko Road Upgrading Project (72km)","2021-2022","Selective National Bidding","223901","79999","48988","Dott Services Limited","Uganda","National","Y",NULL
+"22","223932","Design and Build of Kituuma - Kapeeka - Butalangu Road Upgrading Project (37Km) and Access to Ssingo Barracks (5Km)","2021-2022","Selective International Bidding (SIB)","223932","80002",NULL,NULL,"Angola","Foreign","N",NULL
+"6",NULL,"Construction of Lions Swamp Crossing along Moroto –Napak – Abim – Pader Road Under Design and Build","2021-2022","Open Domestic Bidding",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"24","224040","Civil works for Rehabilitation of Additional Masaka Town Roads (9.3Km)","2021-2022","Selective International Bidding (SIB)","224040","80017","27628","Chongqing International Construction Corporation (CICO)","China","Foreign","Y",NULL
+"25",NULL,"Design and Build of Jinja Mbulamuti - Kamuli - Bukungu Road (127Km) and Jinja Municipal Roads (10Km)","2021-2022","Open International Bidding(OIB)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"26","224129","Emergency Reconstruction of Saka Swamp Crossing on the Kaliro - Pallisa National Road Network under Design and Build Scheme","2021-2022","Open International Bidding(OIB)","224129","80029","66367","Arab Contractors (Osman Ahmed Osman & Co.)","Aruba","Foreign","N",NULL
+"26","228608","Emergency Reconstruction of Saka Swamp Crossing on the Kaliro - Pallisa National Road Network under Design and Build Scheme","2021-2022","Open International Bidding(OIB)","228608","80029","66367","Arab Contractors (Osman Ahmed Osman & Co.)","Egypt","Foreign","Y",NULL
+"28","224415","Civil works for the Upgrading of Tororo-Busia Road (29km) and Muyuge and Busia Town Roads (18Km)","2021-2022","Open International Bidding(OIB)","224415","80060","27981","China Railway 18th Bureau Group Co. Ltd","China","Foreign","Y",NULL
+"33","229206","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229206","80825","45424","Empa Associates Ltd","Uganda","National","Y",NULL
+"33","229212","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229212","80825","40356","Kiru General Services","Uganda","National","N",NULL
+"33","229217","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229217","80825","67518","Ambitious Construction  Company","Uganda","Resident","N",NULL
+"33","229218","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229218","80825","8376","Muga Services Ltd","Uganda","National","N",NULL
+"33","229226","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229226","80825","67519","Bestway Engineering and  Construction Ltd","Uganda","National","N",NULL
+"33","229234","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229234","80825","13345","Lina Construction Ltd","Uganda","National","N",NULL
+"33","229236","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229236","80825","11070","Bresun Enterprises (U) Ltd","Uganda","National","N",NULL
+"33","229238","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229238","80825","67522","Remmy Technical Services  Ltd","Uganda","National","Y",NULL
+"33","229241","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229241","80825","67523","Ruwanganyama Engineering Services","Uganda","National","N",NULL
+"33","229243","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229243","80825","46529","King Albert Construction Ltd","Uganda","National","N",NULL
+"33","229244","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229244","80825","67524","Spike Engineering Consult Ltd","Uganda","National","N",NULL
+"33","229248","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229248","80825","67525","CME Enterprise","Uganda","National","N",NULL
+"33","229252","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229252","80825","67526","Power World Technical Service Ltd","Uganda","National","N",NULL
+"33","229255","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229255","80825","67527","Monte Christo Engineering Ltd","Uganda","National","N",NULL
+"33","229258","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229258","80825","67528","Rukooge Enterprise (U) Ltd","Uganda","National","N",NULL
+"33","229262","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229262","80825","67530","Heaat General Engineers","Uganda","National","N",NULL
+"33","229263","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229263","80825","66811","Multax (U) Ltd","Uganda","National","N",NULL
+"33","229264","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229264","80825","67531","Roone Engineering","Uganda","National","N",NULL
+"33","229267","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229267","80825","17619","Jubilee Real Estate Ltd","Uganda","National","N",NULL
+"33","229269","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229269","80825","26595","PNR Services Ltd","Uganda","National","N",NULL
+"33","229270","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229270","80825","4018","Ambitious Construction Co. Ltd","Uganda","Resident","N",NULL
+"33","229271","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229271","80825","67532","Spider constructors","Uganda","National","N",NULL
+"33","229272","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229272","80825","46562","Inventive Capacity Consults Ltd","Uganda","National","N",NULL
+"33","229275","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229275","80825","67533","Oryemcan Co. Ltd","Uganda","National","N",NULL
+"33","229278","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229278","80825","29367","Pehan Construction Ltd","Uganda","National","Y",NULL
+"33","229284","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229284","80825","67534","Kenfields Services Ltd","Uganda","National","N",NULL
+"33","229286","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229286","80825","67535","Rina  One Investments Ltd","Uganda","National","N",NULL
+"33","229288","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229288","80825","67537","IOTA Constructions Ltd","Uganda","Resident","N",NULL
+"33","229289","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229289","80825","67538","Kasese Nail  and Wood  Ltd","Uganda","National","N",NULL
+"33","229291","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229291","80825","48078","Networld Uganda Limited","Uganda","National","N",NULL
+"33","229293","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229293","80825","67539","Nicontra Limited","Uganda","National","N",NULL
+"33","229295","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229295","80825","67540","Greystone Investment  Ltd","Uganda","National","Y",NULL
+"33","229297","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229297","80825","67541","Goder Construction and Technical Services","Uganda","National","N",NULL
+"33","229300","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229300","80825","67542","Tesla Engineering & Supplies Ltd","Uganda","National","N",NULL
+"33","229302","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229302","80825","67543","Musana Nathan and Company Ltd","Uganda","National","N",NULL
+"33","229304","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229304","80825","25647","Greystone Investments Ltd","Uganda","National","N",NULL
+"33","229305","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229305","80825","46529","King Albert Construction Ltd","Uganda","Resident","N",NULL
+"33","229307","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229307","80825","67544","Malu Construction Ltd","Uganda","National","N",NULL
+"33","229309","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229309","80825","8376","Muga Services Ltd","Uganda","National","N",NULL
+"33","229310","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229310","80825","49556","Newton Construction","Uganda","National","N",NULL
+"33","229312","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229312","80825","52571","MG Engineers and Contractors Ltd","Uganda","National","N",NULL
+"33","229314","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229314","80825","67546","Bestway General Contractor Ltd","Uganda","National","N",NULL
+"33","229316","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229316","80825","67547","IOTA Construction  Limited","Uganda","National","N",NULL
+"33","229320","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229320","80825","16161","CMD Investments Ltd","Uganda","National","N",NULL
+"33","229323","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229323","80825","67550","Construction and Building Solutions Ltd","Uganda","National","N",NULL
+"33","229325","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","229325","80825","48078","Networld Uganda Limited","Uganda","National","N",NULL
+"33","233636","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233636","80825","68667","M/s Bestway General Contractors Limited","Uganda","National","Y",NULL
+"33","233653","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233653","80825","28866","M/s Prime Contractors Limited","Uganda","National","Y",NULL
+"33","233675","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233675","80825","38263","Roone Engineering Limited","Uganda","National","Y",NULL
+"33","233684","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233684","80825","68695","M/s Ruwangananyama Engineering Service Ltd","Uganda","National","Y",NULL
+"33","233687","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233687","80825","68696","M/s Newton Construction Ltd","Uganda","National","N",NULL
+"33","233690","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233690","80825","68697","MG Engineers and Contractors","Uganda","National","N",NULL
+"33","233702","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233702","80825","68701","M/s Kenfields Services Ltd","Uganda","National","N",NULL
+"33","233703","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233703","80825","68702","M/s Baliyo Uganda Ltd","Uganda","National","N",NULL
+"33","233704","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233704","80825","68703","M/s Luts Engineering Ltd","Uganda","National","N",NULL
+"33","233720","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233720","80825","40773","M/s CMD Investments Limited","Uganda","National","N",NULL
+"33","233733","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233733","80825","38894","M/s Azu Properties Limited","Uganda","National","N",NULL
+"33","233736","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233736","80825","68712","Suez Auto  Enterprises Ltd","Uganda","National","N",NULL
+"33","233737","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233737","80825","33242","M/s Pehan Construction Limited","Uganda","National","N",NULL
+"33","233738","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233738","80825","68713","M/s Dynasty Contractors (U) Limited","Uganda","National","Y",NULL
+"33","233741","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233741","80825","68715","m/s Mogen Enterprises  Limited","Uganda","National","N",NULL
+"33","233756","Construction of Low Cost Sealing of Selected Low Volume Roads","2021-2022","Open Domestic Bidding","233756","80825","42332","M/s Bresun Enterprises Limited","Uganda","National","N",NULL
+"44","229359","Construction of mini piped water scheme at Kindeke Trading centre Phase 1","2021-2022","Open Domestic Bidding","229359","80842","20266","Ferest Investments Ltd","Uganda","National","Y",NULL
+"44","229360","Construction of mini piped water scheme at Kindeke Trading centre Phase 1","2021-2022","Open Domestic Bidding","229360","80842","67553","Julio general contractors Ltd","Uganda","National","N",NULL
+"5","229371","5STANCE AT KISWEKA P/S","2021-2022","Selective National Bidding","229371","80843","49377","MPLAMB CONSTRUCTION SERVICES AND JOINERY CO. LTD","Uganda","National","Y",NULL
+"5","229373","5STANCE AT KISWEKA P/S","2021-2022","Selective National Bidding","229373","80843","67555","KEVIN AND KEITH INVESTMENTS (U) LTD","Uganda","National","N",NULL
+"45","229787","CONSTRUCTION OF TWO CLASSROOM BLOCK AT DWANIRO PEOPLE'S PRIMARY SCHOOL","2021-2022","Open Domestic Bidding","229787","80844","56734","ADVANTA UGANDA LIMITED","Uganda","National","Y",NULL
+"45","229788","CONSTRUCTION OF TWO CLASSROOM BLOCK AT DWANIRO PEOPLE'S PRIMARY SCHOOL","2021-2022","Open Domestic Bidding","229788","80844","49377","MPLAMB CONSTRUCTION SERVICES AND JOINERY CO. LTD","Uganda","National","N",NULL
+"45","229789","CONSTRUCTION OF TWO CLASSROOM BLOCK AT DWANIRO PEOPLE'S PRIMARY SCHOOL","2021-2022","Open Domestic Bidding","229789","80844","63724","ALFONSE ENGINEERING SERVICES LTD","Uganda","National","N",NULL
+"45","229790","CONSTRUCTION OF TWO CLASSROOM BLOCK AT DWANIRO PEOPLE'S PRIMARY SCHOOL","2021-2022","Open Domestic Bidding","229790","80844","57080","BAFREYS TECHNICAL LIMITED","Uganda","National","N",NULL
+"53","229784","construction of staff quarters, kitchen, 2stance lined pit latrine and four unit open shower room","2021-2022","Open Domestic Bidding","229784","80931","18885","KARKI BUILDERS AND ENGINEERS LTD","Uganda","National","Y",NULL
+"54","229796","CONSTRUCTION OF A 5STANCE LINED PIT LATRINE ATA KABAMBA","2021-2022","Selective National Bidding","229796","80934","67647","MUNDA HOLDINGS LIMITED","Uganda","National","N",NULL
+"54","229797","CONSTRUCTION OF A 5STANCE LINED PIT LATRINE ATA KABAMBA","2021-2022","Selective National Bidding","229797","80934","67648","QUOIN CONSTRUCTION (U)LIMITED","Uganda","National","Y",NULL
+"55","229838","CONSTRUCTION  AND REMODELING OF THE DISTRICT DRUG STORE","2021-2022","Open Domestic Bidding","229838","80950","60115","WINRAR SERVICES LTD","Uganda","National","N",NULL
+"55","229841","CONSTRUCTION  AND REMODELING OF THE DISTRICT DRUG STORE","2021-2022","Open Domestic Bidding","229841","80950","15259","CYCLOPS TECHNOLOGIES LTD","Uganda","National","Y",NULL
+"56","229856","DRILLING OF 03NO. DEEP BOREHOLES","2021-2022","Open Domestic Bidding","229856","80953","67665","MSR TECHNOLOGIES (U) LTD","Uganda","National","Y",NULL
+"57","229869","CONSTRUCTION OF A 5STANCE LINED PIT LATRINE AT BUKOBOOBO P/S","2021-2022","Selective National Bidding","229869","80956","67667","KAHOORA TECHNICAL SERVICES LTD","Uganda","National","Y",NULL
+"57","229871","CONSTRUCTION OF A 5STANCE LINED PIT LATRINE AT BUKOBOOBO P/S","2021-2022","Selective National Bidding","229871","80956","67668","MUNDA HOLDINGS LTD","Uganda","National","N",NULL
+"58","230006","CONSTRUCTION OF 2STANCE LINED PIT LATRINE AT MUWANGA HC111","2021-2022","Single Source Consultants","230006","80969","49557","KEVIN & KEITH INVESTMENTS LTD","Uganda","National","Y",NULL
+"58","230011","CONSTRUCTION OF 2STANCE LINED PIT LATRINE AT MUWANGA HC111","2021-2022","Single Source Consultants","230011","80969","67668","MUNDA HOLDINGS LTD","Uganda","National","N",NULL
+"59","230024","5STANCE LINED PIT LATRINE AT KYAMAKOOLA P/S","2021-2022","Selective National Bidding","230024","80971","67694","PLANT WHITING CONTRACTORS LTD","Uganda","National","N",NULL
+"59","230026","5STANCE LINED PIT LATRINE AT KYAMAKOOLA P/S","2021-2022","Selective National Bidding","230026","80971","67668","MUNDA HOLDINGS LTD","Uganda","National","N",NULL
+"59","230028","5STANCE LINED PIT LATRINE AT KYAMAKOOLA P/S","2021-2022","Selective National Bidding","230028","80971","67695","QUION CONSTRULTDTION","Uganda","National","N",NULL
+"59","230037","5STANCE LINED PIT LATRINE AT KYAMAKOOLA P/S","2021-2022","Selective National Bidding","230037","80971","67694","PLANT WHITING CONTRACTORS LTD","Uganda","National","Y",NULL
+"62","230288","PROTECTION OF LUTUKUMA SPRINGS AND EXTENSION OF WATER","2021-2022","Selective National Bidding","230288","81034","19378","SEMAKULA CONTRACTORS LTD","Uganda","National","Y",NULL
+"63","230295","CONSTRUCTION OF KIBOGA TOWN COUNCIL ADMINISTRATION BLOCK","2021-2022","Open Domestic Bidding","230295","81039","24362","SIRAFFORD UGANDA LIMITED","Uganda","National","Y",NULL
+"63","230297","CONSTRUCTION OF KIBOGA TOWN COUNCIL ADMINISTRATION BLOCK","2021-2022","Open Domestic Bidding","230297","81039","67742","KIMTESI CONTRACTORS AND SERVICES LTD","Uganda","National","N",NULL
+"64","230323","REHABILITATION AND PROTECTION OF 06NO. SPRINGS","2021-2022","Selective National Bidding","230323","81044","19378","SEMAKULA CONTRACTORS LTD","Uganda","National","Y",NULL
+"65","230422","5STANCE LINED PI LATRINE AT KIBOOBA P/S","2021-2022","Selective National Bidding","230422","81073","67778","MPLAMB CONSTRUCTION SERVICES AND JOINERY COMPANY LTD","Uganda","National","Y",NULL
+"66","231012","RENOVATION OF KAPEKE SUB COUNTY H/QS","2021-2022","Selective National Bidding","231012","81255","49557","KEVIN & KEITH INVESTMENTS LTD","Uganda","National","N",NULL
+"66","231014","RENOVATION OF KAPEKE SUB COUNTY H/QS","2021-2022","Selective National Bidding","231014","81255","49557","KEVIN & KEITH INVESTMENTS LTD","Uganda","National","Y",NULL
+"67","231258","RE-PAINTING AND ELECTRICAL INSTALLATION AT  DWANIRO SUB COUNTY HEAD QUARTERS","2021-2022","Restricted Domestic Bidding (RDB)","231258","81332","60108","APPLIED INVESTMENTS LIMITED","Uganda","National","N",NULL
+"67","231259","RE-PAINTING AND ELECTRICAL INSTALLATION AT  DWANIRO SUB COUNTY HEAD QUARTERS","2021-2022","Restricted Domestic Bidding (RDB)","231259","81332","68028","BAFFREY TECHNAL LTD","Uganda","National","Y",NULL
+"68",NULL,"kbkj","2020-2021","Open Domestic Bidding",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"70","231548","Procurement of a Contractor for rewiring and modernisation of Amber House Electrical System","2021-2022","Open Domestic Bidding","231548","81383","43019","Omega General electricals Ltd","Uganda","National","N",NULL
+"70","231549","Procurement of a Contractor for rewiring and modernisation of Amber House Electrical System","2021-2022","Open Domestic Bidding","231549","81383","9386","Good news investments Ltd","Uganda","National","N",NULL
+"70","231550","Procurement of a Contractor for rewiring and modernisation of Amber House Electrical System","2021-2022","Open Domestic Bidding","231550","81383","13135","International Energy Technik Ltd","Iceland","Foreign","N",NULL
+"70","231551","Procurement of a Contractor for rewiring and modernisation of Amber House Electrical System","2021-2022","Open Domestic Bidding","231551","81383","46529","King Albert construction Ltd","Uganda","National","N",NULL
+"70","231552","Procurement of a Contractor for rewiring and modernisation of Amber House Electrical System","2021-2022","Open Domestic Bidding","231552","81383","57478","Ambitious Construction Company","Uganda","National","N",NULL
+"70","231553","Procurement of a Contractor for rewiring and modernisation of Amber House Electrical System","2021-2022","Open Domestic Bidding","231553","81383","57441","Ficah Enterprises U Ltd","Uganda","National","N",NULL
+"70","231554","Procurement of a Contractor for rewiring and modernisation of Amber House Electrical System","2021-2022","Open Domestic Bidding","231554","81383","3439","Seven hills Impex Ltd","Uganda","National","Y",NULL
+"69","232148","Construction of staff houses in Nakapiripiriti, Amudat and Moroto districts under Karamoja Regions staff project","2021-2022","Open Domestic Bidding","232148","81386","68274","M/S Bulmak Associates Limited","Uganda","National","Y",NULL
+"71","231578","Upgrade of the power house and installation of standby generator","2021-2022","Open Domestic Bidding","231578","81387","23390","AEA Ltd","Uganda","National","N",NULL
+"71","231581","Upgrade of the power house and installation of standby generator","2021-2022","Open Domestic Bidding","231581","81387","43019","Omega general electricals Ltd","Uganda","National","N",NULL
+"71","231585","Upgrade of the power house and installation of standby generator","2021-2022","Open Domestic Bidding","231585","81387","68130","Goodnews Investments Ltd","Uganda","National","Y",NULL
+"72","231629","Repair of Amber House Upper Courtyard","2021-2022","Request for Quotations/Proposals (RFQ/P)","231629","81397","68143","M/S.DELCOM CONSTRUCTION LTD","Uganda","National","N",NULL
+"72","231644","Repair of Amber House Upper Courtyard","2021-2022","Request for Quotations/Proposals (RFQ/P)","231644","81397","68149","M/S Delcom construction ltd","Uganda","National","N",NULL
+"72","231649","Repair of Amber House Upper Courtyard","2021-2022","Request for Quotations/Proposals (RFQ/P)","231649","81397","68149","m/s Delcom construction ltd","Uganda","National","N",NULL
+"72","231668","Repair of Amber House Upper Courtyard","2021-2022","Request for Quotations/Proposals (RFQ/P)","231668","81397","68149","M/S DELCOM CONSTRUCTION LTD","Uganda","National","Y",NULL
+"76","231902","BOREHOLE SITTING, SURVEYING AND DRILLING SUPERVISON","2021-2022","Open Domestic Bidding","231902","81446","56993","SCAN WATER CONSULTANTS AND CONTRACTORS LTD","Uganda","National","Y",NULL
+"77","231935","Procurement of a contractor for the repair of Amber house upper parking","2021-2022","Restricted Domestic Bidding (RDB)","231935","81451","62170","Rina one investments Ltd","Uganda","National","N",NULL
+"77","231936","Procurement of a contractor for the repair of Amber house upper parking","2021-2022","Restricted Domestic Bidding (RDB)","231936","81451","68234","Fical Enterprises Ltd","Uganda","National","N",NULL
+"77","231937","Procurement of a contractor for the repair of Amber house upper parking","2021-2022","Restricted Domestic Bidding (RDB)","231937","81451","68235","Good news","Uganda","National","Y",NULL
+"79",NULL,"The Kampala Metropolitan Transmission System Improvement","2021-2022","Open International Bidding(OIB)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"32","232613","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232613","81579","31089","Dynaco Limited","Uganda","National","N",NULL
+"32","232614","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232614","81579","55622","Armpass Technical Services Limited","Uganda","National","N",NULL
+"32","232616","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232616","81579",NULL,NULL,"Uganda","National","Y",NULL
+"32","232618","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232618","81579","4018","Ambitious Construction Co. Ltd","Uganda","National","N",NULL
+"32","232619","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232619","81579","7504","Terrain Services Ltd","Uganda","Resident","N",NULL
+"32","232621","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232621","81579","31089","Dynaco Limited","Uganda","National","N",NULL
+"32","232622","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232622","81579","55622","Armpass Technical Services Limited","Uganda","National","N",NULL
+"32","232623","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232623","81579",NULL,NULL,"Uganda","National","N",NULL
+"32","232625","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232625","81579","4018","Ambitious Construction Co. Ltd","Uganda","National","Y",NULL
+"32","232626","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232626","81579","7504","Terrain Services Ltd","Uganda","Resident","N",NULL
+"32","232627","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232627","81579","31089","Dynaco Limited","Uganda","National","Y",NULL
+"32","232629","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232629","81579","4018","Ambitious Construction Co. Ltd","Uganda","National","N",NULL
+"32","232630","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232630","81579","40944","Basama Enterprises Ltd","Uganda","National","N",NULL
+"32","232631","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232631","81579","46529","King Albert Construction Ltd","Uganda","National","N",NULL
+"32","232632","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232632","81579","47772","Nato Engineering Co. Ltd","Uganda","National","N",NULL
+"32","232633","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232633","81579","68384","Details Multiservices & Contractors Ltd","Uganda","National","N",NULL
+"32","232634","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232634","81579","11377","Rohi Services Ltd","Uganda","National","N",NULL
+"32","232635","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232635","81579","68385","House of Riches","Uganda","National","N",NULL
+"32","232680","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232680","81579","7504","Terrain Services Ltd","Uganda","Resident","Y",NULL
+"32","232681","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232681","81579","29400","Dynaco Ltd","Uganda","Resident","N",NULL
+"32","232683","Reconstruction of five (5) Failed bridges on the National Road Network under Design and Build","2021-2022","Open Domestic Bidding","232683","81579",NULL,NULL,"Uganda","National","N",NULL
+"81","232756","Replacement of Hospital Chain Link Fence","2021-2022","Request for Quotations/Proposals (RFQ/P)","232756","81601","68415","Kyaju Contractors (U) Ltd","Uganda","National","Y",NULL
+"82","232833","Renovation of the Ministry of Health Building -Civil Works","2021-2022","Request for Quotations/Proposals (RFQ/P)","232833","81621","59109","Arc Civil Engineering (U) Ltd","Uganda","National","Y",NULL
+"40","238249","Building Maintenance works at UNRA Headquaters, Kyambogo Offices, Namugongo Stores and Ntinda","2021-2022","Open Domestic Bidding","238249","81825","40112","Basama Enterprises & Engineering Ltd","Uganda","National","Y",NULL
+"40","238250","Building Maintenance works at UNRA Headquaters, Kyambogo Offices, Namugongo Stores and Ntinda","2021-2022","Open Domestic Bidding","238250","81825","69991","Detail Multiservices Contractors Ltd","Uganda","National","N",NULL
+"40","238251","Building Maintenance works at UNRA Headquaters, Kyambogo Offices, Namugongo Stores and Ntinda","2021-2022","Open Domestic Bidding","238251","81825","69992","House of the Riches Ltd","Uganda","National","N",NULL
+"40","238252","Building Maintenance works at UNRA Headquaters, Kyambogo Offices, Namugongo Stores and Ntinda","2021-2022","Open Domestic Bidding","238252","81825","47228","King Albert Constructions Ltd","Uganda","National","N",NULL
+"40","238253","Building Maintenance works at UNRA Headquaters, Kyambogo Offices, Namugongo Stores and Ntinda","2021-2022","Open Domestic Bidding","238253","81825","55050","NATO Engineering Company Ltd","Uganda","National","N",NULL
+"40","238254","Building Maintenance works at UNRA Headquaters, Kyambogo Offices, Namugongo Stores and Ntinda","2021-2022","Open Domestic Bidding","238254","81825","11377","Rohi Services Ltd","Uganda","National","N",NULL
+"34","235919","Civil works for the Periodic Mainatenance of Kampala Northern Bypass Phase 1 (21 Km)","2021-2022","Open Domestic Bidding","235919","81918","40399","Stirling Civil Engineering Limited","Egypt","Foreign","Y",NULL
+"34","235921","Civil works for the Periodic Mainatenance of Kampala Northern Bypass Phase 1 (21 Km)","2021-2022","Open Domestic Bidding","235921","81918","38844","Sinohydro Corporation Limited","China","Foreign","N",NULL
+"34","235922","Civil works for the Periodic Mainatenance of Kampala Northern Bypass Phase 1 (21 Km)","2021-2022","Open Domestic Bidding","235922","81918","69434","Mota Engil Engenharia","Portugal","Foreign","N",NULL
+"87",NULL,"Agwata Water resource project","2021-2022","Open Domestic Bidding",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"90","235148","Construction of Maruzi Access roads","2021-2022","Restricted Domestic Bidding (RDB)","235148","82031","61129","Lite solutions Ltd","Uganda","National","N",NULL
+"90","235149","Construction of Maruzi Access roads","2021-2022","Restricted Domestic Bidding (RDB)","235149","82031","29365","Savannah Engineering works Ltd","Uganda","National","N",NULL
+"90","235150","Construction of Maruzi Access roads","2021-2022","Restricted Domestic Bidding (RDB)","235150","82031","64590","Royale Technologies ltd","Uganda","National","N",NULL
+"90","235151","Construction of Maruzi Access roads","2021-2022","Restricted Domestic Bidding (RDB)","235151","82031","45303","Continuum engineering Ltd","Uganda","National","Y",NULL
+"91","235169","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235169","82037","69234","DingXIANG East Africa Enterprises Limited","Uganda","Resident","Y",NULL
+"91","235170","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235170","82037","69235","MS Niem Establishment LTD","Uganda","National","N",NULL
+"91","235173","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235173","82037","69237","MS Niem Establishments Limited","Uganda","National","Y",NULL
+"91","235177","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235177","82037","69238","Ms Rise Shine Investments Uganda LTD","Uganda","National","Y",NULL
+"91","235179","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235179","82037","69240","MS. Grand Engineering Limited","Uganda","National","Y",NULL
+"91","235180","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235180","82037","69241","MS Doramine Enterprises LTD","Uganda","National","Y",NULL
+"91","235181","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235181","82037","69242","MS Ken Field Services Limited","Uganda","National","Y",NULL
+"91","235182","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235182","82037","69243","Ms Musana Nathan and Co LTD","Uganda","National","Y",NULL
+"91","235183","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235183","82037","69244","MS Tansack Development Link Uganda LTD","Uganda","National","Y",NULL
+"91","235184","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235184","82037","69245","MS Upland Enterprises and Construction Limited","Uganda","National","Y",NULL
+"91","235185","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235185","82037","69246","MS Saed Technical Services Limited","Uganda","National","Y",NULL
+"91","235186","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235186","82037","69247","Ms BP Enterprises and Construction company Limited","Uganda","National","Y",NULL
+"91","235187","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235187","82037","69248","MS Wao Ug LTD","Uganda","National","Y",NULL
+"91","235188","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235188","82037","69249","Ms Crescent General Company LTD","Uganda","National","Y",NULL
+"91","235189","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235189","82037","69250","Ms Destiny Civil Engineering Company Limited","Uganda","National","Y",NULL
+"91","235192","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235192","82037","69252","Ms Dynastay Contractor Ug LTD","Uganda","National","Y",NULL
+"91","235196","Agriculture Cluster Development Project - ACDP","2021-2022","Open Domestic Bidding","235196","82037","69254","Ms Heaat General Engineers and contractors Ltd","Uganda","National","Y",NULL
+"94","235207","Construction of a staff residential block at Maruzi","2021-2022","Open Domestic Bidding","235207","82044","69257","Tradint","Uganda","National","N",NULL
+"94","235208","Construction of a staff residential block at Maruzi","2021-2022","Open Domestic Bidding","235208","82044","69258","Savannah Engineering Services","Uganda","National","N",NULL
+"94","235209","Construction of a staff residential block at Maruzi","2021-2022","Open Domestic Bidding","235209","82044","58955","Open world contractors","Uganda","National","N",NULL
+"94","235210","Construction of a staff residential block at Maruzi","2021-2022","Open Domestic Bidding","235210","82044","69259","IY Group Ltd","Uganda","National","N",NULL
+"94","235211","Construction of a staff residential block at Maruzi","2021-2022","Open Domestic Bidding","235211","82044","23046","CMD Investment Ltd","Uganda","National","N",NULL
+"94","235213","Construction of a staff residential block at Maruzi","2021-2022","Open Domestic Bidding","235213","82044","69260","Mobi-tex Engineering Company works","Uganda","National","N",NULL
+"94","235214","Construction of a staff residential block at Maruzi","2021-2022","Open Domestic Bidding","235214","82044","13808","Stanhope construction and General merchandise","Uganda","National","Y",NULL
+"95","235570","Renovation of Hostel, Laboratory and Office Blocks at ABi Zardi","2021-2022","Restricted Domestic Bidding (RDB)","235570","82116","69352","Dolphin Consulting engineers and contractors Ltd","Uganda","National","Y",NULL
+"95","235571","Renovation of Hostel, Laboratory and Office Blocks at ABi Zardi","2021-2022","Restricted Domestic Bidding (RDB)","235571","82116","69353","Olok Construction Ltd","Uganda","National","N",NULL
+"96","236422","Remedial Works on Ntungamo - Kabale - Katuna","2021-2022","Restricted International Bidding (RIB)","236422","82323","31402","China Railway Seventh Group Co. Ltd","China","Foreign","Y",NULL
+"96","236427","Remedial Works on Ntungamo - Kabale - Katuna","2021-2022","Restricted International Bidding (RIB)","236427","82323","7535","Chongqing International Construction Corporation","China","Foreign","N",NULL
+"96","236428","Remedial Works on Ntungamo - Kabale - Katuna","2021-2022","Restricted International Bidding (RIB)","236428","82323","69533","Energoprojekt","Egypt","Foreign","N",NULL
+"96","236429","Remedial Works on Ntungamo - Kabale - Katuna","2021-2022","Restricted International Bidding (RIB)","236429","82323","49652","China Communication Construction Company","China","Foreign","N",NULL
+"96","236431","Remedial Works on Ntungamo - Kabale - Katuna","2021-2022","Restricted International Bidding (RIB)","236431","82323","69534","Arab Contractors Osman Ahmed Osman","Aruba","Foreign","N",NULL
+"103",NULL,"PROJECT TEST","2021-2022","Open Domestic Bidding",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"110","237348","Remodeling of University Hospital","2021-2022","Restricted Domestic Bidding (RDB)","237348","82470","69760","Open World Contractors Limited","Uganda","National","N",NULL
+"110","237349","Remodeling of University Hospital","2021-2022","Restricted Domestic Bidding (RDB)","237349","82470","40445","CK Associates Limited","Uganda","National","Y",NULL
+"111",NULL,"Construction of the Kamdini High-Speed Weigh-in -motion lanes station and parking yard","2021-2022","Open Domestic Bidding",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"106","239802","Construction of NSSF Warehouse","2021-2022","Request for Quotations/Proposals (RFQ/P)","239802","82960","70384","Creark Group Ltd","Uganda","National","N",NULL
+"106","239803","Construction of NSSF Warehouse","2021-2022","Request for Quotations/Proposals (RFQ/P)","239803","82960","70384","Creark Group Ltd","Uganda","National","Y",NULL
+"4","240079","Upgrade of masts","2021-2022","Request for Quotations/Proposals (RFQ/P)","240079","83024","70450","Haraka Solutions Limited","Uganda","National","N",NULL
+"4","240080","Upgrade of masts","2021-2022","Request for Quotations/Proposals (RFQ/P)","240080","83024","70451","Jagens Technical Services (U) Limited","Uganda","National","N",NULL
+"4","240081","Upgrade of masts","2021-2022","Request for Quotations/Proposals (RFQ/P)","240081","83024","36104","Earthlink Solutions Limited","Uganda","National","N",NULL
+"4","240082","Upgrade of masts","2021-2022","Request for Quotations/Proposals (RFQ/P)","240082","83024","70452","Geses (U)Limited","Uganda","National","Y",NULL
+"112","243597","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243597","83644","71165","NIPE Construction Ltd","Uganda","National","N",NULL
+"112","243598","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243598","83644","71166","Rukooge Enterprises Uganda Ltd","Uganda","National","N",NULL
+"112","243600","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243600","83644","29083","Techno Buha Ltd","Uganda","National","N",NULL
+"112","243602","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243602","83644","46041","Hands Uganda Ltd","Uganda","National","N",NULL
+"112","243603","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243603","83644","18718","Savanah Engineering Works Ltd","Uganda","National","Y",NULL
+"112","243605","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243605","83644","5182","IOTA Construction Ltd","Uganda","National","N",NULL
+"112","243606","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243606","83644","56164","TMS Engineering Ltd","Uganda","National","N",NULL
+"112","243608","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243608","83644",NULL,NULL,"Uganda","National","N",NULL
+"112","243609","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243609","83644","46978","Kasese Nail & Wood Industry Ltd","Uganda","National","N",NULL
+"112","243611","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243611","83644","16213","Act Uganda Ltd","Uganda","National","N",NULL
+"112","243613","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243613","83644","47823","Suez Auto Enterprises Ltd","Uganda","National","N",NULL
+"112","243614","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243614","83644",NULL,NULL,"Uganda","National","N",NULL
+"112","243639","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243639","83644","71176","TMS Engineering Construction Ltd","Uganda","National","N",NULL
+"112","243641","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243641","83644","69158","Sriayyappa Construction Ltd","Uganda","National","N",NULL
+"112","243642","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243642","83644","63396","Tab Construction Uganda Ltd","Uganda","National","N",NULL
+"112","243643","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243643","83644","71177","Dynaco Engineering Ltd","Uganda","National","N",NULL
+"112","243644","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243644","83644","71178","Sanex Technologies Ltd","Uganda","National","N",NULL
+"112","243645","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243645","83644","46236","NIPE Construction & Technical Services Ltd","Uganda","National","N",NULL
+"112","243646","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243646","83644","56164","TMS Engineering Ltd","Uganda","National","N",NULL
+"112","243647","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243647","83644","5075","Nicontra Ltd","Uganda","National","N",NULL
+"112","243648","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243648","83644","71179","Karago Construction & Engineering Ltd","Uganda","National","N",NULL
+"112","243649","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243649","83644","12984","Wim Services Ltd","Uganda","National","N",NULL
+"112","243650","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243650","83644","46529","King Albert Construction Ltd","Uganda","National","N",NULL
+"112","243651","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243651","83644","5075","Nicontra Ltd","Uganda","National","N",NULL
+"112","243652","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243652","83644",NULL,NULL,"Uganda","National","N",NULL
+"112","243653","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243653","83644","71180","Buildmust Engineering Ltd","Uganda","National","N",NULL
+"112","243654","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243654","83644","56164","TMS Engineering Ltd","Uganda","National","N",NULL
+"112","243655","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243655","83644","56164","TMS Engineering Ltd","Uganda","National","N",NULL
+"112","243656","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243656","83644","55227","Out Media International Ltd","Uganda","National","N",NULL
+"112","243657","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243657","83644","46236","NIPE Construction & Technical Services Ltd","Uganda","National","N",NULL
+"112","243694","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243694","83644","56164","TMS Engineering Ltd","Uganda","National","N",NULL
+"112","243695","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243695","83644","5075","Nicontra Ltd","Uganda","National","N",NULL
+"112","243696","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243696","83644","71179","Karago Construction & Engineering Ltd","Uganda","National","N",NULL
+"112","243697","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243697","83644","12984","Wim Services Ltd","Uganda","National","N",NULL
+"112","243698","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243698","83644","46529","King Albert Construction Ltd","Uganda","National","N",NULL
+"112","243699","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243699","83644","43363","Sanix Technologies Ltd","Uganda","National","N",NULL
+"112","243700","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243700","83644","63396","Tab Construction Uganda Ltd","Uganda","National","N",NULL
+"112","243701","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243701","83644","71196","Outmedia International Ltd","Uganda","National","N",NULL
+"112","243702","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243702","83644","56164","TMS Engineering Ltd","Uganda","National","N",NULL
+"112","243703","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243703","83644","5063","Rukooge Enterprises (U) Ltd","Uganda","National","N",NULL
+"112","243704","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243704","83644","29400","Dynaco Ltd","Uganda","National","N",NULL
+"112","243705","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243705","83644",NULL,NULL,"Uganda","National","N",NULL
+"112","243707","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243707","83644","71197","Karago Construction & Engineering Co. Ltd","Uganda","National","N",NULL
+"112","243708","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243708","83644","43363","Sanix Technologies Ltd","Uganda","National","Y",NULL
+"112","243709","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243709","83644","63396","Tab Construction Uganda Ltd","Uganda","National","N",NULL
+"112","243710","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243710","83644","71196","Outmedia International Ltd","Uganda","National","N",NULL
+"112","243711","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243711","83644","56164","TMS Engineering Ltd","Uganda","National","N",NULL
+"112","243712","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243712","83644","71198","Rokooge Enterprises Ltd","Uganda","National","N",NULL
+"112","243713","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243713","83644","29400","Dynaco Ltd","Uganda","National","N",NULL
+"112","243714","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243714","83644",NULL,NULL,"Uganda","National","N",NULL
+"112","243715","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243715","83644","71197","Karago Construction & Engineering Co. Ltd","Uganda","National","N",NULL
+"112","243716","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243716","83644","56164","TMS Engineering Ltd","Uganda","National","N",NULL
+"112","243717","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243717","83644","8376","Muga Services Ltd","Uganda","National","N",NULL
+"112","243718","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243718","83644","71199","Kuka Uganda Ltd","Uganda","National","N",NULL
+"112","243719","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243719","83644","47823","Suez Auto Enterprises Ltd","Uganda","National","N",NULL
+"112","243720","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243720","83644","5063","Rukooge Enterprises (U) Ltd","Uganda","National","N",NULL
+"112","243721","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243721","83644","46734","Platinum Business (U) Ltd","Uganda","National","N",NULL
+"112","243722","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243722","83644","46734","Platinum Business (U) Ltd","Uganda","National","N",NULL
+"112","243724","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243724","83644","48092","Coronation Developers (U) Ltd","Uganda","National","N",NULL
+"112","243726","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243726","83644","2683","Prime Contractors Ltd","Uganda","National","N",NULL
+"112","243729","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243729","83644","71201","Karago Construction & Engineering (U) Ltd","Uganda","National","N",NULL
+"112","243730","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243730","83644","54291","Flying Construction Company Ltd","Uganda","National","N",NULL
+"112","243731","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243731","83644","71202","Exdave Technologies Ltd","Uganda","National","N",NULL
+"112","243732","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243732","83644","71203","Heaat General Engineers & Contractors","Uganda","National","N",NULL
+"112","243733","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243733","83644","71204","Newton Construction Ltd","Uganda","National","N",NULL
+"112","243734","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243734","83644","71205","Jetpatcher Uganda","Uganda","National","N",NULL
+"112","243735","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243735","83644","71206","Uganda Martyrs Housing & Construction","Uganda","National","N",NULL
+"112","243736","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243736","83644","41108","Da Track Ltd","Uganda","National","N",NULL
+"112","243738","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243738","83644","54291","Flying Construction Company Ltd","Uganda","National","N",NULL
+"112","243739","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243739","83644","48092","Coronation Developers (U) Ltd","Uganda","National","N",NULL
+"112","243740","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243740","83644","46202","Heaat General Engineers & Contractors Ltd","Uganda","National","N",NULL
+"112","243741","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243741","83644","29083","Techno Buha Ltd","Uganda","National","N",NULL
+"112","243742","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243742","83644","55340","Uganda Martyrs Housing & Construction Ltd","Uganda","National","N",NULL
+"112","243743","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243743","83644","4832","Beem Family Ltd","Uganda","National","N",NULL
+"112","243764","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243764","83644","8376","Muga Services Ltd","Uganda","National","N",NULL
+"112","243765","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243765","83644","8376","Muga Services Ltd","Uganda","National","N",NULL
+"112","243766","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243766","83644","71209","Uganda Martrys Housing","Uganda","National","N",NULL
+"112","243767","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243767","83644","4832","Beem Family Ltd","Uganda","National","N",NULL
+"112","243768","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243768","83644","29083","Techno Buha Ltd","Uganda","National","N",NULL
+"112","243769","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243769","83644","7504","Terrain Services Ltd","Uganda","National","N",NULL
+"112","243770","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243770","83644","12984","Wim Services Ltd","Uganda","National","N",NULL
+"112","243771","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243771","83644","71204","Newton Construction Ltd","Uganda","National","N",NULL
+"112","243772","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243772","83644","12984","Wim Services Ltd","Uganda","National","N",NULL
+"112","243773","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243773","83644","26969","Dalach Investment Ltd","Uganda","National","N",NULL
+"112","243774","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243774","83644","55050","Nato Engineering Company Ltd","Uganda","National","N",NULL
+"112","243775","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243775","83644","26969","Dalach Investment Ltd","Uganda","National","N",NULL
+"112","243776","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243776","83644","55050","Nato Engineering Company Ltd","Uganda","National","N",NULL
+"112","243777","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243777","83644","29400","Dynaco Ltd","Uganda","National","N",NULL
+"112","243778","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243778","83644","55340","Uganda Martyrs Housing & Construction Ltd","Uganda","National","N",NULL
+"112","243779","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243779","83644","8376","Muga Services Ltd","Uganda","National","N",NULL
+"112","243780","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243780","83644","29083","Techno Buha Ltd","Uganda","National","N",NULL
+"112","243781","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243781","83644","71210","NIPE Construction & Services Ltd","Uganda","National","N",NULL
+"112","243782","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243782","83644","42066","Exdav Technologies Ltd","Uganda","National","N",NULL
+"112","243783","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243783","83644","42066","Exdav Technologies Ltd","Uganda","National","N",NULL
+"112","243784","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243784","83644","71211","Rina One In vestments Ltd","Uganda","National","N",NULL
+"112","243785","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243785","83644","41108","Da Track Ltd","Uganda","National","Y",NULL
+"112","243786","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243786","83644","71212","Tokor Engineering Company Ltd","Uganda","National","N",NULL
+"112","243787","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243787","83644","43363","Sanix Technologies Ltd","Uganda","National","N",NULL
+"112","243788","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243788","83644","4029","Act (U) Ltd","Uganda","National","N",NULL
+"112","243789","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243789","83644","71213","Nelica Services (U) Ltd","Uganda","National","N",NULL
+"112","243790","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243790","83644","46041","Hands Uganda Ltd","Uganda","National","N",NULL
+"112","243791","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243791","83644","71214","Nellica Services","Uganda","National","N",NULL
+"112","243792","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243792","83644","41108","Da Track Ltd","Uganda","National","N",NULL
+"112","243793","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243793","83644","41108","Da track Ltd","Uganda","National","N",NULL
+"112","243794","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243794","83644","62577","Rina One Investment Ltd","Uganda","National","N",NULL
+"112","243795","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243795","83644","71215","Flying Construction Co. Ltd","Uganda","National","N",NULL
+"112","243796","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243796","83644","62577","Rina One Investment Ltd","Uganda","National","N",NULL
+"112","243797","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243797","83644","71215","Flying Construction Co. Ltd","Uganda","National","N",NULL
+"112","243798","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243798","83644","46041","Hands Uganda Ltd","Uganda","National","N",NULL
+"112","243799","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243799","83644","12984","Wim Services Ltd","Uganda","National","N",NULL
+"112","243800","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243800","83644","71204","Newton Construction Ltd","Uganda","National","Y",NULL
+"112","243801","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243801","83644","17619","Jubilee Real Estate Ltd","Uganda","National","N",NULL
+"112","243802","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243802","83644","64062","Jetcom Agencies Ltd","Uganda","National","N",NULL
+"112","243803","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243803","83644","42066","Exdav Technologies Ltd","Uganda","National","N",NULL
+"112","243804","Routine Mechanized Maintenance of Selected Paved Roads","2022-2023","Open Domestic Bidding","243804","83644","71212","Tokor Engineering Company Ltd","Uganda","National","N",NULL
+"113","244046","Upgrading of Luwero - Butalangu Road (30Km) from gravel to paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","244046","83747","71281","Shandong Luqiao Group Co. Ltd","China","Foreign","N",NULL
+"113","244047","Upgrading of Luwero - Butalangu Road (30Km) from gravel to paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","244047","83747","26992","Dott Services Ltd","Uganda","National","Y",NULL
+"113","244048","Upgrading of Luwero - Butalangu Road (30Km) from gravel to paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","244048","83747","71282","Hassan Allam Construction Ltd","Uganda","Resident","N",NULL
+"113","244049","Upgrading of Luwero - Butalangu Road (30Km) from gravel to paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","244049","83747","71283","China Communication Construction Company Ltd","China","Foreign","N",NULL
+"113","244050","Upgrading of Luwero - Butalangu Road (30Km) from gravel to paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","244050","83747","71284","Sabeel Engineering Enterprises","Uganda","Resident","N",NULL
+"113","244051","Upgrading of Luwero - Butalangu Road (30Km) from gravel to paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","244051","83747","71285","The Arab Construction","Aruba","Foreign","N",NULL
+"113","244053","Upgrading of Luwero - Butalangu Road (30Km) from gravel to paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","244053","83747","71286","Inyatsi Construction Ltd","China","Foreign","N",NULL
+"113","244057","Upgrading of Luwero - Butalangu Road (30Km) from gravel to paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","244057","83747","71287","Petrojet","Uganda","Resident","N",NULL
+"114","244072","Periodic maintenance of Kibuye - Entebbe Road (22km)","2022-2023","Open Domestic Bidding","244072","83749",NULL,NULL,"Aruba","Foreign","Y",NULL
+"114","244073","Periodic maintenance of Kibuye - Entebbe Road (22km)","2022-2023","Open Domestic Bidding","244073","83749","71294","jhgfdsdfgjkjvcxs","Uganda","National","N",NULL
+"115","244566","Construction of High Speed weigh in motion lanes, Station and Parking yard for Kamdini weigh station","2022-2023","Open Domestic Bidding","244566","83837","3212","Excel Construction Ltd","Uganda","National","N",NULL
+"115","244628","Construction of High Speed weigh in motion lanes, Station and Parking yard for Kamdini weigh station","2022-2023","Open Domestic Bidding","244628","83837","7504","Terrain Services Ltd","Uganda","National","N",NULL
+"115","244629","Construction of High Speed weigh in motion lanes, Station and Parking yard for Kamdini weigh station","2022-2023","Open Domestic Bidding","244629","83837","71440","Maleka Engineering & Contracting Co. Ltd","Uganda","National","N",NULL
+"115","244630","Construction of High Speed weigh in motion lanes, Station and Parking yard for Kamdini weigh station","2022-2023","Open Domestic Bidding","244630","83837","8376","Muga Services Ltd","Uganda","National","N",NULL
+"115","244631","Construction of High Speed weigh in motion lanes, Station and Parking yard for Kamdini weigh station","2022-2023","Open Domestic Bidding","244631","83837","71441","Lumala F Enterprises Ltd","Uganda","National","N",NULL
+"115","244632","Construction of High Speed weigh in motion lanes, Station and Parking yard for Kamdini weigh station","2022-2023","Open Domestic Bidding","244632","83837","71442","ZGBX Construction and Engineering Company Ltd","Uganda","National","N",NULL
+"115","244633","Construction of High Speed weigh in motion lanes, Station and Parking yard for Kamdini weigh station","2022-2023","Open Domestic Bidding","244633","83837","3141","Roko Construction Ltd","Uganda","National","N",NULL
+"115","244637","Construction of High Speed weigh in motion lanes, Station and Parking yard for Kamdini weigh station","2022-2023","Open Domestic Bidding","244637","83837","4018","Ambitious Construction Co. Ltd","Uganda","National","Y",NULL
+"4","244680","Upgrade of masts","2022-2023","Request for Quotations/Proposals (RFQ/P)","244680","83860","12944","Kiron Group Limited","Uganda","National","N",NULL
+"4","244681","Upgrade of masts","2022-2023","Request for Quotations/Proposals (RFQ/P)","244681","83860","1588","CLS Limited","Uganda","National","Y",NULL
+"4","244682","Upgrade of masts","2022-2023","Request for Quotations/Proposals (RFQ/P)","244682","83860","12132","Simplex Solutions Limited","Uganda","National","N",NULL
+"128","244712","Building Maintenance works under framework contract for three years.","2022-2023","Open Domestic Bidding","244712","83864","40112","Basama Enterprises & Engineering Ltd","Uganda","National","Y",NULL
+"128","244713","Building Maintenance works under framework contract for three years.","2022-2023","Open Domestic Bidding","244713","83864","46529","King Albert Construction Ltd","Uganda","National","N",NULL
+"128","244714","Building Maintenance works under framework contract for three years.","2022-2023","Open Domestic Bidding","244714","83864","47772","NATO Engineering Co. Ltd","Uganda","National","N",NULL
+"128","244715","Building Maintenance works under framework contract for three years.","2022-2023","Open Domestic Bidding","244715","83864","68497","Detail Multiservices & Contractors Ltd","Uganda","National","N",NULL
+"128","244716","Building Maintenance works under framework contract for three years.","2022-2023","Open Domestic Bidding","244716","83864","11377","Rohi Services Ltd","Uganda","National","N",NULL
+"128","244717","Building Maintenance works under framework contract for three years.","2022-2023","Open Domestic Bidding","244717","83864","71472","House of Riches Limited","Uganda","National","N",NULL
+"129","244741","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","244741","83865","71474","Lusa Construction & Engineering Co. Ltd","Uganda","National","Y",NULL
+"129","244742","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","244742","83865","30974","Cuberoot Ltd","Uganda","National","N",NULL
+"129","244743","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","244743","83865","55095","Davrich Company (U) Ltd","Uganda","National","Y",NULL
+"129","244744","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","244744","83865","66448","Uganda Martyrs Housing & Construction Company Ltd","Uganda","National","N",NULL
+"129","244745","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","244745","83865","2411","Techno Three (U) Ltd","Uganda","National","N",NULL
+"129","244746","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","244746","83865","71475","Continuum Eng. Ltd","Uganda","National","N",NULL
+"129","244766","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","244766","83865","48092","Coronation Developers (U) Ltd","Uganda","National","N",NULL
+"129","244767","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","244767","83865","29092","Networld (U) Ltd","Uganda","National","N",NULL
+"129","244768","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","244768","83865","46738","Inventive Capacity Consult Ltd","Uganda","National","N",NULL
+"129","244769","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","244769","83865","47769","MG Engineers & Contractors Ltd","Uganda","National","N",NULL
+"129","244770","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","244770","83865","45313","Stone Construction Ltd","Uganda","National","N",NULL
+"129","245044","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245044","83865","71545","Kuka Uganda Limited","Uganda","National","N",NULL
+"129","245045","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245045","83865","18739","Pekasa Enterprises Ltd","Uganda","National","N",NULL
+"129","245047","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245047","83865","29400","Dynaco Ltd","Uganda","National","N",NULL
+"129","245048","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245048","83865","71546","Upland Enterprises and Construction Co. Ltd","Uganda","National","Y",NULL
+"129","245049","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245049","83865","71547","J.B United Civil Engineering and Building Contractors Ltd","Uganda","National","N",NULL
+"129","245050","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245050","83865","26969","Dalach Investment Ltd","Uganda","National","N",NULL
+"129","245051","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245051","83865","18739","Pekasa Enterprises Ltd","Uganda","National","N",NULL
+"129","245052","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245052","83865","71548","Spider Contractors Limited","Uganda","National","N",NULL
+"129","245053","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245053","83865","8408","Kark Technical Services Ltd","Uganda","National","N",NULL
+"129","245054","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245054","83865","29814","NIPE Construction and Technical Services Ltd","Uganda","National","N",NULL
+"129","245056","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245056","83865","55095","Davrich Company (U) Ltd","Uganda","National","N",NULL
+"129","245057","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245057","83865","47756","Apomu International Ltd","Uganda","National","N",NULL
+"129","245058","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245058","83865","71549","Shajap Technical","Uganda","National","N",NULL
+"129","245059","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245059","83865","3475","Moha Construction Ltd","Uganda","National","N",NULL
+"129","245060","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245060","83865","29110","Tracemark (U) Ltd","Uganda","National","N",NULL
+"129","245061","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245061","83865","30700","Sobetra Uganda Ltd","Uganda","National","N",NULL
+"129","245062","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245062","83865","46237","NIEM Establishments Ltd","Uganda","National","Y",NULL
+"129","245063","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245063","83865","71550","Norasa Technical Services Ltd","Uganda","National","N",NULL
+"129","245064","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245064","83865","46252","Kuuka Investments Ltd","Uganda","National","N",NULL
+"129","245065","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245065","83865","3477","Akaaba Enterprises Ltd","Uganda","National","N",NULL
+"129","245066","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245066","83865","46218","Upland Enterprises Ltd","Uganda","National","Y",NULL
+"129","245067","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245067","83865","71551","J.B United Civil Engineering & Building Contractor Ltd","Uganda","National","N",NULL
+"129","245068","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245068","83865","61047","Beru Investments (U) Ltd","Uganda","National","Y",NULL
+"129","245069","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245069","83865","8408","Kark Technical Services Ltd","Uganda","National","N",NULL
+"129","245070","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245070","83865","8408","Kark Technical Services Ltd","Uganda","National","N",NULL
+"129","245071","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245071","83865","71552","E.Africa","Uganda","National","N",NULL
+"129","245072","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245072","83865","3212","Excel Construction Ltd","Uganda","National","N",NULL
+"129","245073","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245073","83865","29079","BLD Consults (U) Ltd","Uganda","National","N",NULL
+"129","245074","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245074","83865","71553","Zeep Construction (U) Ltd","Uganda","National","N",NULL
+"129","245075","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245075","83865","5791","Sobetra (U) Ltd","Uganda","National","N",NULL
+"129","245076","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245076","83865","46237","NIEM Establishments Ltd","Uganda","National","N",NULL
+"129","245077","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245077","83865","2422","Ambitious Construction Company Limited","Uganda","National","N",NULL
+"129","245079","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245079","83865","71554","WAO (U) Ltd","Uganda","National","N",NULL
+"129","245080","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245080","83865","47817","Swift Engineering (U) Ltd","Uganda","National","N",NULL
+"129","245081","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245081","83865","71555","TMS Engineering Limited","Uganda","National","N",NULL
+"129","245082","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245082","83865","71556","Lusa Construction & Eng. Co. Ltd","Uganda","National","N",NULL
+"129","245083","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245083","83865","29814","NIPE Construction and Technical Services Ltd","Uganda","National","N",NULL
+"129","245084","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245084","83865","3212","Excel Construction Ltd","Uganda","National","N",NULL
+"129","245085","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245085","83865","71557","Rodo Constructors Ltd","Uganda","National","Y",NULL
+"129","245086","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245086","83865","71558","Savanah Engineering Ltd","Uganda","National","N",NULL
+"129","245087","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245087","83865","11375","Azu Properties Ltd","Uganda","National","N",NULL
+"129","245088","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245088","83865","43363","Sanix Technologies Ltd","Uganda","National","N",NULL
+"129","245089","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245089","83865","71559","Egiss Engineering Cohachors Ltd","Uganda","National","N",NULL
+"129","245090","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245090","83865","45649","Litho Enterprises Ltd","Uganda","National","N",NULL
+"129","245091","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245091","83865","10618","Hands Uganda Limited","Uganda","National","Y",NULL
+"129","245092","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245092","83865","2422","Ambitious Construction Company Limited","Uganda","National","N",NULL
+"129","245093","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245093","83865","47769","MG Engineers & Contractors Ltd","Uganda","National","N",NULL
+"129","245094","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245094","83865","71560","Caifu Distributors Ltd","Uganda","National","N",NULL
+"129","245095","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245095","83865","38053","Bap Engineering Co. Ltd","Uganda","National","N",NULL
+"129","245096","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245096","83865","21552","RockTrust Contractors (U) Ltd","Uganda","National","N",NULL
+"129","245097","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245097","83865","30059","Kiru General Services Limited","Uganda","National","N",NULL
+"129","245098","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245098","83865","27038","Kuka (U) Ltd","Uganda","National","N",NULL
+"129","245099","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245099","83865","18739","Pekasa Enterprises Ltd","Uganda","National","Y",NULL
+"129","245100","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245100","83865","61047","Beru Investments (U) Ltd","Uganda","National","N",NULL
+"129","245101","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245101","83865","47741","Wako Construction Ltd","Uganda","National","N",NULL
+"129","245102","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245102","83865","3212","Excel Construction Ltd","Uganda","National","N",NULL
+"129","245103","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245103","83865","71562","Platinum Business Uganda Limited","Uganda","National","N",NULL
+"129","245104","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245104","83865","29110","Tracemark (U) Ltd","Uganda","National","N",NULL
+"129","245105","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245105","83865","47823","Suez Auto Enterprises Ltd","Uganda","National","N",NULL
+"129","245106","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245106","83865","71563","Remmy Technical Services Ltd","Uganda","National","N",NULL
+"129","245107","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245107","83865","30044","Busenvi Enterprises Limited","Uganda","National","N",NULL
+"129","245108","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245108","83865","36501","Prand Engineering Ltd","Uganda","National","Y",NULL
+"129","245109","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245109","83865","71564","Power world Technical Services Ltd","Uganda","National","N",NULL
+"129","245110","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245110","83865","46200","Kato Contractors Ltd","Uganda","National","Y",NULL
+"129","245111","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245111","83865","43300","Linear Engineering Services Ltd","Uganda","National","N",NULL
+"129","245112","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245112","83865","71565","HFXA  Africa Ltd","Uganda","National","N",NULL
+"129","245113","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245113","83865","68357","Equipment Solutions Ltd","Uganda","National","N",NULL
+"129","245114","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245114","83865","29110","Tracemark (U) Ltd","Uganda","National","N",NULL
+"129","245115","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245115","83865","41696","Shataman Contractors (U) Ltd","Uganda","National","N",NULL
+"129","245116","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245116","83865","57446","Networth Consult Ltd","Uganda","National","N",NULL
+"129","245117","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245117","83865","71554","WAO (U) Ltd","Uganda","National","N",NULL
+"129","245119","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245119","83865","1776","Drens Enterprises Ltd","Uganda","National","N",NULL
+"129","245122","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245122","83865","35867","Halai Holdings Ltd","Uganda","National","N",NULL
+"129","245123","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245123","83865","8459","Rwenzori Engineering Works Ltd","Uganda","National","N",NULL
+"129","245124","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245124","83865","71567","Nellca Suis (U) Ltd","Uganda","National","Y",NULL
+"129","245125","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245125","83865","71555","TMS Engineering Limited","Uganda","National","N",NULL
+"129","245126","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245126","83865","71548","Spider Contractors Limited","Uganda","National","N",NULL
+"129","245127","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245127","83865","12033","Beem Family Limited","Uganda","National","Y",NULL
+"129","245128","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245128","83865","55340","Uganda Martyrs Housing & Construction Ltd","Uganda","National","N",NULL
+"129","245129","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245129","83865","71568","Tecno Three (U) Ltd","Uganda","National","N",NULL
+"129","245130","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245130","83865","71569","Continnum Engineering Ltd","Uganda","National","N",NULL
+"129","245131","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245131","83865","11375","Azu Properties Ltd","Uganda","National","N",NULL
+"129","245132","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245132","83865","37772","Canaansites Ltd","Uganda","National","Y",NULL
+"129","245133","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245133","83865","71570","Egiss Engineering Contractors (U) Ltd","Uganda","National","N",NULL
+"129","245137","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245137","83865","41696","Shataman Contractors (U) Ltd","Uganda","National","N",NULL
+"129","245138","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245138","83865","47230","Ambitious Construction Company Ltd","Uganda","National","N",NULL
+"129","245139","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245139","83865","71572","MG Engineers & Constructors Ltd","Uganda","National","N",NULL
+"129","245140","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245140","83865","71560","Caifu Distributors Ltd","Uganda","National","N",NULL
+"129","245141","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245141","83865","30059","Kiru General Services Limited","Uganda","National","N",NULL
+"129","245142","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245142","83865","71573","Rolda Services Limited","Uganda","National","N",NULL
+"129","245143","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245143","83865","71196","Outmedia International Ltd","Uganda","National","N",NULL
+"129","245144","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245144","83865","59982","TAB Construction (U) Ltd","Uganda","National","N",NULL
+"129","245145","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245145","83865","8414","Upland Enterprises and Construction Ltd","Uganda","National","N",NULL
+"129","245146","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245146","83865","71574","TICK Lokere Enterprises Ltd","Uganda","National","Y",NULL
+"129","245147","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245147","83865","71556","Lusa Construction & Eng. Co. Ltd","Uganda","National","Y",NULL
+"129","245148","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245148","83865","71575","Universal Engineers (U) Ltd","Uganda","National","N",NULL
+"129","245150","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245150","83865","3212","Excel Construction Ltd","Uganda","National","N",NULL
+"129","245151","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245151","83865","12033","Beem Family Limited","Uganda","National","N",NULL
+"129","245153","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245153","83865","29448","Rodo Contractors Ltd","Uganda","National","N",NULL
+"129","245155","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245155","83865","8395","CGH Establishments Ltd","Uganda","National","N",NULL
+"129","245156","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245156","83865","29092","Networld (U) Ltd","Uganda","National","N",NULL
+"129","245157","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245157","83865","5791","Sobetra (U) Ltd","Uganda","National","N",NULL
+"129","245158","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245158","83865","2422","Ambitious Construction Company Limited","Uganda","National","N",NULL
+"129","245159","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245159","83865","46252","Kuuka Investments Ltd","Uganda","National","N",NULL
+"129","245160","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245160","83865","71573","Rolda Services Limited","Uganda","National","N",NULL
+"129","245161","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245161","83865","71555","TMS Engineering Limited","Uganda","National","N",NULL
+"129","245162","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245162","83865","25647","Greystone Investments Ltd","Uganda","National","Y",NULL
+"129","245163","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245163","83865","71576","Extreme Investments Limited","Uganda","National","N",NULL
+"129","245164","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245164","83865","71577","Uganda Marytrs Housing & Construction Co. Ltd","Uganda","National","N",NULL
+"129","245165","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245165","83865","71578","Karobwa Engineering Services Ltd","Uganda","National","N",NULL
+"129","245166","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245166","83865","29083","Techno Buha Ltd","Uganda","National","N",NULL
+"129","245167","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245167","83865","46580","Victoria Enviros Consults Ltd","Uganda","National","N",NULL
+"129","245168","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245168","83865","71579","Nipon Parts (U) Ltd","Uganda","National","Y",NULL
+"129","245169","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245169","83865","71580","Trust Merchants (U) Ltd","Uganda","National","N",NULL
+"129","245170","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245170","83865","8414","Upland Enterprises and Construction Ltd","Uganda","National","N",NULL
+"129","245171","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245171","83865","71581","J.B United Civil Eng. & Building Contractors Ltd","Uganda","National","N",NULL
+"129","245172","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245172","83865","71582","Tic Lokere Ent. Ltd","Uganda","National","Y",NULL
+"129","245174","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245174","83865","46202","Heaat General Engineers & Contractors Ltd","Uganda","National","N",NULL
+"129","245176","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245176","83865","29400","Dynaco Ltd","Uganda","National","N",NULL
+"129","245177","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245177","83865","29469","Shajapa Technical Works Ltd","Uganda","National","Y",NULL
+"129","245178","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245178","83865","46243","Afro Build (U) Ltd","Uganda","National","N",NULL
+"129","245179","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245179","83865","5791","Sobetra (U) Ltd","Uganda","National","N",NULL
+"129","245181","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245181","83865","10618","Hands Uganda Limited","Uganda","National","N",NULL
+"129","245183","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245183","83865","57446","Networth Consult Ltd","Uganda","National","N",NULL
+"129","245184","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245184","83865","71583","Nippon Parts (U) Limited","Uganda","National","N",NULL
+"129","245185","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245185","83865","71584","Impulse Solutions Limited","Uganda","National","N",NULL
+"129","245186","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245186","83865","71585","Bap Enginering Co. Ltd","Uganda","National","N",NULL
+"129","245187","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245187","83865","3477","Akaaba Enterprises Ltd","Uganda","National","N",NULL
+"129","245189","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245189","83865","71586","J.B United Civil Eng. Building Contractors Ltd","Uganda","National","N",NULL
+"129","245190","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245190","83865","22095","Dalach Investments Ltd","Uganda","National","N",NULL
+"129","245191","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245191","83865","71548","Spider Contractors Limited","Uganda","National","N",NULL
+"129","245192","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245192","83865","71587","Multiline Co.(U)  Ltd","Uganda","National","N",NULL
+"129","245193","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245193","83865","47817","Swift Engineering (U) Ltd","Uganda","National","N",NULL
+"129","245194","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245194","83865","29469","Shajapa Technical Works Ltd","Uganda","National","N",NULL
+"129","245195","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245195","83865","3475","Moha Construction Ltd","Uganda","National","N",NULL
+"129","245196","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245196","83865","71553","Zeep Construction (U) Ltd","Uganda","National","N",NULL
+"129","245197","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245197","83865","48776","Bana Enterprises Limited","Uganda","National","N",NULL
+"129","245198","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245198","83865","66450","Breko Enterprises Ltd","Uganda","National","N",NULL
+"129","245199","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245199","83865","3481","Egiss Engineering Contractors Ltd","Uganda","National","N",NULL
+"129","245200","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245200","83865","10618","Hands Uganda Limited","Uganda","National","N",NULL
+"129","245201","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245201","83865","38053","Bap Engineering Co. Ltd","Uganda","National","N",NULL
+"129","245202","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245202","83865","71555","TMS Engineering Limited","Uganda","National","N",NULL
+"129","245203","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245203","83865","71588","Rukara Enterprises Ltd","Uganda","National","N",NULL
+"129","245204","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245204","83865","71589","Dynasty Contractor (U) Ltd","Uganda","National","N",NULL
+"129","245205","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245205","83865","29092","Networld (U) Ltd","Uganda","National","Y",NULL
+"129","245206","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245206","83865","29083","Techno Buha Ltd","Uganda","National","N",NULL
+"129","245207","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245207","83865","29083","Techno Buha Ltd","Uganda","National","Y",NULL
+"129","245208","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245208","83865","71590","Tesla Engineering & Supplies Limited","Uganda","National","N",NULL
+"129","245213","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245213","83865","71555","TMS Engineering Limited","Uganda","National","N",NULL
+"129","245217","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245217","83865","29372","Assured Engineering Services Ltd","Uganda","National","N",NULL
+"129","245218","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245218","83865","27532","Afro General Builders and Carpentry (U) Limited","Uganda","National","N",NULL
+"129","245219","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245219","83865","29814","NIPE Construction and Technical Services Ltd","Uganda","National","N",NULL
+"129","245220","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245220","83865","46243","Afro Build (U) Ltd","Uganda","National","N",NULL
+"129","245222","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245222","83865","16213","Act Uganda Ltd","Uganda","National","N",NULL
+"129","245224","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245224","83865","8376","Muga Services Ltd","Uganda","National","N",NULL
+"129","245227","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245227","83865","71592","Malu Constructions Ltd","Uganda","National","N",NULL
+"129","245229","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245229","83865","29110","Tracemark (U) Ltd","Uganda","National","N",NULL
+"129","245230","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245230","83865","71594","Buildbase Contractors (U) Ltd","Uganda","National","N",NULL
+"129","245231","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245231","83865","29377","Wanaik Construction Co. Ltd","Uganda","National","N",NULL
+"129","245232","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245232","83865","71578","Karobwa Engineering Services Ltd","Uganda","National","N",NULL
+"129","245233","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245233","83865","5182","Iota Construction Ltd","Uganda","National","N",NULL
+"129","245234","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245234","83865","71595","Lambda Services Ltd","Uganda","National","N",NULL
+"129","245235","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245235","83865","71596","Bresan Enterprises Ltd","Uganda","National","N",NULL
+"129","245236","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245236","83865","71597","Impulse Solution Limited","Uganda","National","N",NULL
+"129","245237","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245237","83865","5075","Nicontra Ltd","Uganda","National","N",NULL
+"129","245238","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245238","83865","21921","Rukooge Enterprises Ltd","Uganda","National","N",NULL
+"129","245239","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245239","83865","19022","Adapt Technical Services","Uganda","National","N",NULL
+"129","245240","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245240","83865","57797","Luts Engineering Co. Ltd","Uganda","National","N",NULL
+"129","245267","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245267","83865","27038","Kuka (U) Ltd","Uganda","National","N",NULL
+"129","245268","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245268","83865","18739","Pekasa Enterprises Ltd","Uganda","National","N",NULL
+"129","245269","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245269","83865","29400","Dynaco Ltd","Uganda","National","N",NULL
+"129","245271","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245271","83865","2411","Techno Three (U) Ltd","Uganda","National","N",NULL
+"129","245273","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245273","83865","29448","Rodo Contractors Ltd","Uganda","National","Y",NULL
+"129","245274","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245274","83865","26834","CGH Establishment Ltd","Uganda","National","N",NULL
+"129","245275","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245275","83865","11375","Azu Properties Ltd","Uganda","National","Y",NULL
+"129","245926","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245926","83865","71717","Nellca Services Ltd","Uganda","National","N",NULL
+"129","245927","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245927","83865","71718","Star Engineering Services","Uganda","National","N",NULL
+"129","245928","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245928","83865","71719","KSD Builders Constructions & Estates Developers","Uganda","National","Y",NULL
+"129","245929","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245929","83865","29110","Tracemark (U) Ltd","Uganda","National","Y",NULL
+"129","245930","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245930","83865","23321","Busenvi Enterprises Ltd","Uganda","National","N",NULL
+"129","245931","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","245931","83865","71720","Kamtech Engineering Services Ltd","Uganda","National","N",NULL
+"129","246305","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246305","83865","46236","Nipe Construction & Technical Services Ltd","Uganda","National","N",NULL
+"129","246306","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246306","83865","29082","Adapt Technical Services Ltd","Uganda","National","N",NULL
+"129","246307","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246307","83865","5075","Nicontra Ltd","Uganda","National","N",NULL
+"129","246308","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246308","83865","57797","Luts Engineering Co. Ltd","Uganda","National","N",NULL
+"129","246309","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246309","83865","8376","Muga Services Ltd","Uganda","National","N",NULL
+"129","246311","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246311","83865","71770","Acts (U) Ltd","Uganda","National","N",NULL
+"129","246313","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246313","83865","71771","Impulse Solutions Ltd","Uganda","National","Y",NULL
+"129","246314","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246314","83865","29372","Assured Engineering Services Ltd","Uganda","National","N",NULL
+"129","246315","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246315","83865","71772","Lamba Services Ltd","Uganda","National","N",NULL
+"129","246316","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246316","83865","47737","Afrobuild (U) Ltd","Uganda","National","N",NULL
+"129","246317","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246317","83865","71773","Afro General Builders & Carpentry","Uganda","National","N",NULL
+"129","246318","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246318","83865","71578","Karobwa Engineering Services Ltd","Uganda","National","N",NULL
+"129","246320","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246320","83865","21921","Rukooge Enterprises Ltd","Uganda","National","Y",NULL
+"129","246321","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246321","83865","56164","TMS Engineering Ltd","Uganda","National","N",NULL
+"129","246323","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246323","83865","29110","Tracemark (U) Ltd","Uganda","National","N",NULL
+"129","246324","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246324","83865","5182","Iota Construction Ltd","Uganda","National","N",NULL
+"129","246325","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246325","83865","71775","Bresuh Enterprises Ltd","Uganda","National","N",NULL
+"129","246326","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246326","83865","29377","Wanaik Construction Co. Ltd","Uganda","National","N",NULL
+"129","246327","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246327","83865","71594","Buildbase Contractors (U) Ltd","Uganda","National","N",NULL
+"129","246330","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","246330","83865","71778","Malu Contractors Ltd","Uganda","National","N",NULL
+"129","250359","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250359","83865","29400","Dynaco Ltd","Uganda","National","N",NULL
+"129","250360","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250360","83865","45649","Litho Enterprises Ltd","Uganda","National","N",NULL
+"129","250361","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250361","83865","46215","Universal Engineering Uganda Ltd","Uganda","National","Y",NULL
+"129","250362","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250362","83865","43363","Sanix Technologies Ltd","Uganda","National","Y",NULL
+"129","250363","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250363","83865","34109","Grey Stone Investments Ltd","Uganda","National","N",NULL
+"129","250364","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250364","83865","29377","Wanaik Construction Co. Ltd","Uganda","National","N",NULL
+"129","250365","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250365","83865","11375","Azu Properties Ltd","Uganda","National","N",NULL
+"129","250366","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250366","83865","38053","Bap Engineering Co. Ltd","Uganda","National","N",NULL
+"129","250367","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250367","83865","56075","Afro Build Uganda Limited","Uganda","National","N",NULL
+"129","250368","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250368","83865","26840","Nippon Parts (U) Ltd","Uganda","National","Y",NULL
+"129","250369","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250369","83865","2411","Techno Three (U) Ltd","Uganda","National","N",NULL
+"129","250370","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250370","83865","29377","Wanaik Construction Co. Ltd","Uganda","National","N",NULL
+"129","250371","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250371","83865","46236","Nipe Construction & Technical Services Ltd","Uganda","National","Y",NULL
+"129","250372","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250372","83865","5075","Nicontra Ltd","Uganda","National","N",NULL
+"129","250373","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250373","83865","66344","Enmarg Group Ltd","Uganda","National","Y",NULL
+"129","250374","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250374","83865","54017","Datrack Ltd","Uganda","National","Y",NULL
+"129","250376","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250376","83865","37772","Canaansites Ltd","Uganda","National","N",NULL
+"129","250377","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250377","83865","26840","Nippon Parts (U) Ltd","Uganda","National","N",NULL
+"129","250378","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250378","83865","29082","Adapt Technical Services Ltd","Uganda","National","N",NULL
+"129","250379","Mechanized Maintenance of Unpaved Roads under framework contract Phase 3","2022-2023","Open Domestic Bidding","250379","83865","5063","Rukooge Enterprises (U) Ltd","Uganda","National","N",NULL
+"4","246062","Upgrade of masts","2022-2023","Request for Quotations/Proposals (RFQ/P)","246062","84032","71737","MAT Technical Services Ltd","Uganda","National","N",NULL
+"4","246063","Upgrade of masts","2022-2023","Request for Quotations/Proposals (RFQ/P)","246063","84032","5159","Simplex Solutions Ltd","Uganda","National","Y",NULL
+"4","246064","Upgrade of masts","2022-2023","Request for Quotations/Proposals (RFQ/P)","246064","84032","5161","Kiron Group Ltd","Uganda","National","N",NULL
+"4","246065","Upgrade of masts","2022-2023","Request for Quotations/Proposals (RFQ/P)","246065","84032","3946","EarthLink Solutions Ltd","Uganda","National","N",NULL
+"131",NULL,"Renovation Works to the Main Administration Block at Isingiro District","2022-2023","Open Domestic Bidding",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"132",NULL,"Construction of Office Block for Rugaaga T/C phase I","2022-2023","Open Domestic Bidding",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"133",NULL,"Construction of Gates at Kaberebere T/C weekly market","2022-2023","Open Domestic Bidding",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"134",NULL,"Construction of 2 -stance pit latrine attached with urinal & curtain wall at Kamubeizi T/C headquarters in Kamubeizi T/C and 3 -stance Pit latrine at Kanywamaizi HCIII in Kabuyanda S/C.","2022-2023","Open Domestic Bidding",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"135",NULL,"Construction of 3 -stance Pit latrine at Kabuyanda weekly market and 5 stance VIP latrine at Kisyoro P/S in Kabuyanda T/C.","2022-2023","Open Domestic Bidding",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"34","249640","Civil works for the Periodic Mainatenance of Kampala Northern Bypass Phase 1 (21 Km)","2022-2023","Open Domestic Bidding","249640","84666","72668","Mota - Engil Africa","Portugal","Foreign","N",NULL
+"34","249641","Civil works for the Periodic Mainatenance of Kampala Northern Bypass Phase 1 (21 Km)","2022-2023","Open Domestic Bidding","249641","84666","8411","Stirling Civil Engineering Ltd","Uganda","Resident","Y",NULL
+"34","249642","Civil works for the Periodic Mainatenance of Kampala Northern Bypass Phase 1 (21 Km)","2022-2023","Open Domestic Bidding","249642","84666","72669","Sinohydra Corporation Ltd","China","Foreign","N",NULL
+"140","251455","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251455","85042","8458","China State Construction Engineering Corporation Ltd","China","Foreign","N",NULL
+"140","251456","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251456","85042","19539","China Wu Yi Co. Ltd","China","Foreign","N",NULL
+"140","251457","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251457","85042","31402","China Railway Seventh Group Co. Ltd","China","Foreign","N",NULL
+"140","251461","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251461","85042","73091","Sinopec International Petroleum Service Corporation","China","Foreign","N",NULL
+"140","251462","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251462","85042","7566","Zhongmei Engineering Group Ltd","China","Foreign","N",NULL
+"140","251463","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251463","85042","73092","Energo Projekt Niskogradnja A.D","Serbia","Foreign","N",NULL
+"140","251468","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251468","85042","19528","China Civil Engineering Construction Corporation","China","Foreign","N",NULL
+"140","251469","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251469","85042","73094","Zhejiang Communications Construction Group Co. Ltd","China","Foreign","N",NULL
+"140","251470","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251470","85042",NULL,NULL,"Uganda","Resident","N",NULL
+"140","251471","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251471","85042","8033","China Communications Construction Company Ltd","China","Foreign","N",NULL
+"140","251472","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251472","85042","27981","China Railway 18th Bureau Group Co. Ltd","China","Foreign","N",NULL
+"140","251476","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251476","85042","26963","China Henan International Cooperation Group Co. Ltd","China","Foreign","N",NULL
+"140","251477","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251477","85042","73097","China Overseas Engineering Group Co.Ltd","China","Foreign","N",NULL
+"140","251480","Civil works for the Upgrading of Selected Town Roads (20.2Km) in Mbarara Municipality from Gravel to Paved (Bituminous) Standard.","2022-2023","Open International Bidding(OIB)","251480","85042","27628","Chongqing International Construction Corporation (CICO)","China","Foreign","Y",NULL
+"7",NULL,"Drilling of two production wells at Kitongo and Maanyi rural growth centres",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"8",NULL,"Fencing of Ssekanyonyi Health Centre IV.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"9",NULL,"Construction of staff house at Namungo Health Centre III",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"10",NULL,"Completion of a two classroom block at Namutidde primary school",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"11",NULL,"Fencing of Namungo Health Centre",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"12",NULL,"Fencing of a Nursery bed at Kikandwa and re-roofing of Kikandwa Health III",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"13",NULL,"Construction of a 3-stance latrine at Kalangaalo public market",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"14",NULL,"Completion  works at Busunju Health Centre III",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"15",NULL,"construction of Namungo piped water system",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"16",NULL,"Renovation of a  classroom block at Kitebere P/S",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"17",NULL,"Renovation of a classroom block at Kiggwa P/S",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"18",NULL,"Renovation of doctor's house A at Mityana hospital",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"19",NULL,"Renovation  works for schools in Namungo sub county",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"20",NULL,"Renovation of primary schools in Kikandwa sub county",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"21",NULL,"Renovation of primary schools in Bbanda and Maanyi sub counties",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"27",NULL,"Civil Works for the Upgrading of the Nabumali-Butaleja-Namutumba Road (72.0km) from gravel to paved (Bituminous) Standard",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"29",NULL,"Design and Build of Package 6A upgrading of Kabwoya - Buhuka Road (43km)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"30",NULL,"Construction of a 5-Stance VIP latrine at Muyebe PS",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"31",NULL,"Consultancy Services for Design and Supervision of Construction of the Proposed Border Facilities at Mpondwe and Bunagana Border Post",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"35",NULL,"Emergency Reconstruction of Saka Swamp Crossing on the Kaliro - Pallisa National Road Network under Design and Build Scheme",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"36",NULL,"Civil works for the Refurbishment of the Post-Cras Care Centre Theatre Block at Kaproron Health Centre IV",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"37",NULL,"Design and Build  of Package 6B (Upgrading of Karugutu - Ntoroko Road (56.5Km), Link to Rwebisengo (8.2km) and 3.3km of Town Roads in Ntoroko",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"38",NULL,"Civil works for the Upgrading of the Luku - Kalangala - Mulabana Road (65.3km), 7No. Town Roads (10.67km) from gravel to paved (bituminous) standard and  2No. Ferry Landing Sites",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"39",NULL,"Design and Build of Iganga - Bulopa - Kamuli Road (56.3km)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"41",NULL,"Civil works for the Upgrading of Selected Access roads in Rushere Town (3km) and Kyamate Access Roads (2.6Km) to Bitumen Paved standard",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"42",NULL,"Completion of Building works at Plot 783 Block 216 Buye Ntinda along Kampala - Northern Bypass",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"43",NULL,"Civil Works for the Rehabilitation of Karuma-Olwiyo Road (43.5KM",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"46",NULL,"Rehabilitation of Community Access Roads in Various Districts",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"47",NULL,"Rehabilitation of Community Access Roads in Various Districts : (Bududa - Rwampara)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"48",NULL,"Construction  Works for Upgrading / Rehabilitation of Kiwologoma- Kitukutwe- Kijabijjo Road 4.5km - Kira Municipality",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"49",NULL,"Construction Works for Upgrading/Rehabilitation of Jinja Industrial City Roads - 57Km Phase 1 of 18Km  in Jinja Municipality",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"50",NULL,"Construction of Karujumba Bridge in Kasese District and Bugibuni - Bunadasa Bridge in Sironko District",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"51",NULL,"Construction Works for upgrading shimoni Road and Nsansa -Namugongo Roads 6.5km  Phase 1 of 2.5km",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"52",NULL,"The Construction of the One Stop Centre Building - Uganda Railway Corporation",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"60",NULL,"KINDEKE PIPED WATER SCHEME PHASE 1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"61",NULL,"PROTECTION OF LUTUKUMA SPRINGS  AND EXTENSION OF WATER",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"73",NULL,"Completion of Refurbishing and Equipping of Busolwe General Hospital",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"74",NULL,"XRD PRE-INSTALLATION REQUIREMENTS FOR THE DIRECTORATE OF GEOLOGICAL SURVEY AND MINES LABORATORIES IN ENTEBBE",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"75",NULL,"132kV Mirama-Kabale Transmission Line and Distribution Project",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"78",NULL,"400KV MASKA WEST –MBARARA SOUTH DOUBLE CIRCUIT TRANSMISSION LINE",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"80",NULL,"Renovation of the Ministry of Health Building-Mechanical Installation",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"83",NULL,"Civil works for the Upgrading of Town Roads (15.15Km) in Masindi Municipality and Kigumba Town Council under Kigumba - Bulima Road (69Km) Project",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"84",NULL,"Design and Build of Kotido - Kaabong Road (69.2km)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"85",NULL,"Civil works for the Upgrading of the Ishasha - Katunguru Road (88Km) form Gravel to Paved (Bituminous) Standard",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"86",NULL,"Extra works on the Multi purpose Laboratory at NACORI",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"88",NULL,"Construction/extension of of the powerline and reticulation to the Maruzi Farm",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"89",NULL,"Construction of a heifer barn at NaLIRRI",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"92",NULL,"Water extension at Maruzi",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"93",NULL,"Renovation and remodelling of Bugusege guest house into staff residential house",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"99",NULL,"Package 2: Construction works for a Treated Water Transmission Pipeline from Karuma to Gulu",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"98",NULL,"Construction works for Lyantonde water Supply Project",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"100",NULL,"Construction Works for South Western Cluster – Development of Water and Sanitation Infrastructure for the Mbarara Masaka Areas Package 3: Masaka.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"101",NULL,"South Western Cluster Towns project - Package 2 - Construction of Mbarara water and sanitation infrastructure",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"102",NULL,"Kampala Water - Lake Victoria Water and Sanitation Project- Package 2b Rehabilitation, Restructuring, Rezoning and the Extension of Greater Kampala Metropolitan Water Supply Network – Phase 1 - Construction of Primary Network",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"104",NULL,"Temangalo Housing Project",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"105",NULL,"Lubowa Housing Project - Phase 1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"107",NULL,"Pension Administrative System",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"108",NULL,"Construction of Pension Towers Phase 2",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"116",NULL,"Construction of a hollow steel section roof for the National Livestock Quarantine and Evaluation Centre-Western",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"117",NULL,"Construction of a biodigester plant system at National Livestock Quarantine and Evaluation Centre-Western",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"118",NULL,"Construction of a flush toilet facility, renovation of nitrogyen plant, a cattle dip structure and car parking shed at bullstud",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"119",NULL,"Construction of a biodigester plant system at National Livestock Quarantine and Evaluation Centre-Eastern",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"120",NULL,"Additional work for th biodigester plant and construction of a waterborne toilet unit at National Livestock Quarantine and evaluation centre-Eastern",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"121",NULL,"Construction of a high performance diary cattle shed",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"122",NULL,"Additional works on a biodigester plant system and construction of a waterborne toilet unit at National Livestock Quarantine and Evaluation Centre-Western",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"123",NULL,"Additional concrete, steel and water works for the National LivestockQuarantine and Evaluation Centre-Western",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"124",NULL,"Construction of two spray races",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"125",NULL,"Additional works on a biodigester plant system and construction of a waterborne toilet unit at National Livestock Quarantine and Evaluation Centre-Western",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"126",NULL,"Additional concrete, steel and water works for the National LivestockQuarantine and Evaluation Centre-Western",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"127",NULL,"Construction of two spray races",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"130",NULL,"Construction of 3-classroom block, a 5-stance latrine block (Boys) and supply of fifty-four (54) 3-seater desks & 3 sets of Teachers furniture at Kihanda Primary School in Isingiro District.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"136",NULL,"Upgrading of Lusalira-Nkonge-Lumegere-Ssembabule Road Project (97Km)",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"137",NULL,"Civil Works for the Upgrading of Selected Town Roads in Pallisa (7.5Km) and Kumi (12.2Km) from Gravel to paved (Bituminous) Standard.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"138",NULL,"Additional Works for Full Depth Replacement of Concrete Deck on the Main Bridge and on Ishasha Road Approach Deck of Kazinga Channel Bridge on Kasese-Katunguru-Ishasha Road",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+"139",NULL,"Additional Scope of Works required on Kapchorwa-Suam Project.",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
