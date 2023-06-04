@@ -6,6 +6,7 @@ SELECT p.id               as project_id,
 
        pde.title as pde,
        pde.category as pde_category,
+       bi.id as bid_invitation_id,
        bi.display_of_beb_notice_date,
        bi.estimated_amount as market_price,
        bi.bid_submission_deadline_date,
