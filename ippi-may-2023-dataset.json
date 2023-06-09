@@ -2077,47 +2077,7 @@
                         }
                     }
                 },
-                {
-                    "id": "106",
-                    "summary": {
-                        "ocid": "LWB/EIB/W/02",
-                        "title":"Construction of DN700, DN600, DN500 and DN300 TWI stx Mwenda, Mwenda-Tsabango, Mtunthama-Area 9 Tower, and  NBS-Kanengo transport mains with a combined length of 17.5 km",
-                        "description": "Elimination of bottlenecks in the water supply system through replacement, rehabilitation and installation of pumping mains and distribution lines; booster stations and reservoirs.",
-                        "status": "closed",
-                        "suppliers": [
-                            {
-                                "id": "43",
-                                "name": "SINOHYDRO CORPORATION LTD"
-                            }
-                        ],
-                        "nature": [
-                            "construction"
-                        ],
-                        "tender": {
-                            "costEstimate": {
-                                "amount": 6023591.29,
-                                "currency": "EUR"
-                            },
-                            "procuringEntity": {
-                                "id": "5",
-                                "name": "Lilongwe Water Board"
-                            },
-                            "administrativeEntity": {
-                                "id": "122",
-                                "name": "Ministry of Water and Sanitation"
-                            }
-                        },
-                        "contractValue": {
-                            "amount": 6023591.29,
-                            "currency": "EUR"
-                        },
-                        "contractPeriod": {
-                            "startDate": "2018-07-24T00:00:00Z",
-                            "endDate": "2019-07-24T00:00:00Z",
-                            "durationInDays": 365
-                        }
-                    }
-                },
+               
                 {
                     "id": "107",
                     "summary": {
