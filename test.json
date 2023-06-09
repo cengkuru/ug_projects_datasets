@@ -1,0 +1,356 @@
+{
+  "title": "LILONGWE WATER RESOURCE EFFICIENCY PROGRAMME",
+  "description": "Medium-term investment programme to optimise available water resources, bridging the gap in water demand in Malawi's fast-growing capital city. The project's main components consist of upgrading a dam that is Lilongwe's primary water source, extending water-treatment works, reducing leakages and improving network management.",
+  "purpose": "The objective of the project is to ensure adequate water availability for the population of Lilongwe",
+  "type": "rehabilitation",
+  "status": "implementation",
+  "updated": "2023-05-16T13:30:21Z",
+  "period": {
+    "startDate": "2015-06-12T00:00:00Z",
+    "endDate": "2022-10-31T00:00:00Z",
+    "durationInDays": 2698
+  },
+  "sector": [
+    "waterAndWaste"
+  ],
+  "locations": [
+    {
+      "id": "263",
+      "description": "Lilongwe City, Malingunde and Surrounding Areas",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.757312,
+          -14.00229
+        ]
+      },
+      "address": {
+        "locality": "LL",
+        "region": "Central",
+        "countryName": "Malawi"
+      }
+    }
+  ],
+  "budget": {
+    "requestDate": "2014-09-26T00:00:00Z",
+    "approvalDate": "2015-06-12T00:00:00Z",
+    "amount": {
+      "amount": 28800000,
+      "currency": "EUR"
+    }
+  },
+  "parties": [
+    {
+      "id": "5",
+      "name": "Lilongwe Water Board",
+      "address": {
+        "streetAddress": "Off Likuni Road, Madzi House",
+        "locality": "Lilongwe",
+        "postalCode": "P.O. Box 96",
+        "countryName": "Malawi"
+      },
+      "contactPoint": {
+        "name": "Lilongwe Water Board",
+        "email": "piu@lwb.mw",
+        "telephone": "253",
+        "url": "https://www.lwb.mw"
+      },
+      "roles": [
+        "supplier"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Mota - Engil",
+      "address": {
+        "streetAddress": "P.O Box 31379, Lilongwe 3",
+        "locality": "Lilongwe",
+        "region": "Central Region",
+        "postalCode": "0000",
+        "countryName": "Malawi"
+      },
+      "contactPoint": {
+        "name": "Mota - Engil",
+        "email": "mota-engil@mota-engil.mw.com",
+        "telephone": "+265999971480",
+        "faxNumber": "01 758 910",
+        "url": "https://www.mota-engil.com/"
+      },
+      "roles": [
+        "administrativeEntity"
+      ]
+    },
+    {
+      "id": "43",
+      "name": "SINOHYDRO CORPORATION LTD",
+      "address": {
+        "streetAddress": "Box 1256, Lilongwe",
+        "locality": "Lilongwe",
+        "region": "Central Region",
+        "postalCode": "0000",
+        "countryName": "Malawi"
+      },
+      "contactPoint": {
+        "name": "SINOHYDRO CORPORATION LTD",
+        "email": "info@sinohydro.com",
+        "telephone": "0997 675 053",
+        "url": "https://www.sinohydro.com"
+      },
+      "roles": [
+        "procuringEntity"
+      ]
+    },
+    {
+      "id": "50",
+      "name": "European Investment Bank (EIB)",
+      "address": {
+        "streetAddress": "98-100, boulevard Konrad Adenauer L-2950 Luxembourg",
+        "locality": "Luxembourg",
+        "region": "Luxembourg",
+        "postalCode": "0000",
+        "countryName": "Luxembourg"
+      },
+      "contactPoint": {
+        "name": "European Investment Bank (EIB)",
+        "email": "info@eib.org",
+        "telephone": "+352 43 79 1",
+        "faxNumber": "+352 43 77 04",
+        "url": "https://www.eib.org/en"
+      },
+      "roles": [
+        "funder"
+      ]
+    },
+    {
+      "id": "52",
+      "name": "Sawa Group Limited",
+      "address": {
+        "streetAddress": "Sawa Group Sawa Park Mchinji Road Lilongwe",
+        "locality": "Lilongwe",
+        "region": "Central Region",
+        "postalCode": "0000",
+        "countryName": "Malawi"
+      },
+      "contactPoint": {
+        "name": "Sawa Group Limited",
+        "email": "info@groupsawa.com",
+        "telephone": "+265 888 999 007",
+        "url": "https://groupsawa.com/"
+      },
+      "roles": [
+        "supplier"
+      ]
+    },
+    {
+      "id": "122",
+      "name": "Ministry of Water and Sanitation",
+      "address": {
+        "streetAddress": "0000",
+        "locality": "Lilongwe",
+        "region": "Central Region",
+        "postalCode": "0000",
+        "countryName": "Malawi"
+      },
+      "contactPoint": {
+        "name": "Ministry of Water and Sanitation",
+        "email": "0000",
+        "telephone": "0000",
+        "url": "https://www.malawi.gov.mw"
+      },
+      "roles": [
+        "administrativeEntity"
+      ]
+    }
+  ],
+  "contractingProcesses": [
+    {
+      "id": "105",
+      "summary": {
+        "ocid": "LWB/EIB/G/02",
+        "title": "Design, Supply, Delivery and Installation of Supervisory Control and Data Acquisition (SCADA)",
+        "description": "The objective is to improve management information system for timely and appropriate decision making",
+        "status": "active",
+        "nature": [
+          "construction",
+          "design"
+        ],
+        "tender": {
+          "procuringEntity": {
+            "id": "5",
+            "name": "Lilongwe Water Board"
+          },
+          "administrativeEntity": {
+            "id": "122",
+            "name": "Ministry of Water and Sanitation"
+          }
+        },
+        "contractValue": {
+          "amount": 1633680,
+          "currency": "EUR"
+        },
+        "contractPeriod": {
+          "startDate": "2021-07-05T00:00:00Z",
+          "endDate": "2022-10-31T00:00:00Z",
+          "maxExtentDate": "2023-03-31T00:00:00Z",
+          "durationInDays": 634
+        }
+      }
+    },
+    {
+      "id": "106",
+      "summary": {
+        "ocid": "LWB/EIB/W/02",
+        "title":"Construction of DN700, DN600, DN500 and DN300 TWI stx Mwenda, Mwenda-Tsabango, Mtunthama-Area 9 Tower, and  NBS-Kanengo transport mains with a combined length of 17.5 km",
+        "description": "Elimination of bottlenecks in the water supply system through replacement, rehabilitation and installation of pumping mains and distribution lines; booster stations and reservoirs.",
+        "status": "closed",
+        "suppliers": [
+          {
+            "id": "43",
+            "name": "SINOHYDRO CORPORATION LTD"
+          }
+        ],
+        "nature": [
+          "construction"
+        ],
+        "tender": {
+          "costEstimate": {
+            "amount": 6023591.29,
+            "currency": "EUR"
+          },
+          "procuringEntity": {
+            "id": "5",
+            "name": "Lilongwe Water Board"
+          },
+          "administrativeEntity": {
+            "id": "122",
+            "name": "Ministry of Water and Sanitation"
+          }
+        },
+        "contractValue": {
+          "amount": 6023591.29,
+          "currency": "EUR"
+        },
+        "contractPeriod": {
+          "startDate": "2018-07-24T00:00:00Z",
+          "endDate": "2019-07-24T00:00:00Z",
+          "durationInDays": 365
+        }
+      }
+    },
+    {
+      "id": "107",
+      "summary": {
+        "ocid": "LWB/LWREP/C/02",
+        "title": "Construction Supervision of the DN700, DN600, DN500 and DN300 TWI-Mwenda, Mwenda-Tsabango, Mtunthama-Area 9 Tower, and  NBS-Kanengo transport mains with a combined length of 17.5 km",
+        "description": "The COnsultant, Nicholas O'Dwyer Limited was contracted to supervise the Construction Works and design a new pump station in area 23.",
+        "status": "closed",
+        "nature": [
+          "design",
+          "supervision"
+        ],
+        "tender": {
+          "costEstimate": {
+            "amount": 438250,
+            "currency": "EUR"
+          },
+          "procuringEntity": {
+            "id": "5",
+            "name": "Lilongwe Water Board"
+          },
+          "administrativeEntity": {
+            "id": "122",
+            "name": "Ministry of Water and Sanitation"
+          }
+        },
+        "contractValue": {
+          "amount": 500495,
+          "currency": "EUR"
+        },
+        "contractPeriod": {
+          "startDate": "2018-06-25T00:00:00Z",
+          "endDate": "2020-07-24T00:00:00Z",
+          "durationInDays": 760
+        }
+      }
+    },
+    {
+      "id": "108",
+      "summary": {
+        "ocid": "LWB/EIB/W/01",
+        "title": "Raising and Rehabilitation of Kamuzu Dam 1",
+        "description": "This involves raising and rehabilitation of Kamuzu Dam 1 by 7m and increase storage capacity from 5.1 to 25.1 Million cubic meters.",
+        "status": "active",
+        "suppliers": [
+          {
+            "id": "16",
+            "name": "Mota - Engil"
+          }
+        ],
+        "nature": [
+          "construction"
+        ],
+        "tender": {
+          "costEstimate": {
+            "amount": 16241428.17,
+            "currency": "MWK"
+          },
+          "procuringEntity": {
+            "id": "5",
+            "name": "Lilongwe Water Board"
+          },
+          "administrativeEntity": {
+            "id": "122",
+            "name": "Ministry of Water and Sanitation"
+          }
+        },
+        "contractValue": {
+          "amount": 16241428.17,
+          "currency": "USD"
+        },
+        "contractPeriod": {
+          "startDate": "2018-11-05T00:00:00Z",
+          "endDate": "2022-02-15T00:00:00Z",
+          "maxExtentDate": "2023-01-31T00:00:00Z",
+          "durationInDays": 1548
+        }
+      }
+    },
+    {
+      "id": "109",
+      "summary": {
+        "ocid": "LWB/LWREP/C/01",
+        "title": "Construction Supervision of Kamuzu Dam I Raising and Rehabilitation",
+        "description": "LWB signed a contract for construction supervision of Kamuzu Dam 1 Raising and Rehabilitation with Studio Pietrangeli Consulting Engineers of Italy",
+        "status": "active",
+        "nature": [
+          "supervision"
+        ],
+        "tender": {
+          "costEstimate": {
+            "amount": 1228025,
+            "currency": "EUR"
+          },
+          "procuringEntity": {
+            "id": "5",
+            "name": "Lilongwe Water Board"
+          },
+          "administrativeEntity": {
+            "id": "122",
+            "name": "Ministry of Water and Sanitation"
+          }
+        },
+        "contractValue": {
+          "amount": 1228025,
+          "currency": "EUR"
+        },
+        "contractPeriod": {
+          "startDate": "2018-06-24T00:00:00Z",
+          "endDate": "2022-10-31T00:00:00Z",
+          "maxExtentDate": "2024-01-31T00:00:00Z",
+          "durationInDays": 2047
+        }
+      }
+    }
+  ],
+  "id": "oc4ids-iuq5r5_366"
+}

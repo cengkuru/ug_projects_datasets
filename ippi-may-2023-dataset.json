@@ -2081,7 +2081,7 @@
                     "id": "106",
                     "summary": {
                         "ocid": "LWB/EIB/W/02",
-                        "title":"Construction of DN700, DN600, DN500 and DN300 TWIMwenda, Mwenda-Tsabango, Mtunthama-Area 9 Tower, and  NBS-Kanengo transport mains with a combined length of 17.5 km",
+                        "title":"Construction of DN700, DN600, DN500 and DN300 TWI stx Mwenda, Mwenda-Tsabango, Mtunthama-Area 9 Tower, and  NBS-Kanengo transport mains with a combined length of 17.5 km",
                         "description": "Elimination of bottlenecks in the water supply system through replacement, rehabilitation and installation of pumping mains and distribution lines; booster stations and reservoirs.",
                         "status": "closed",
                         "suppliers": [
@@ -2235,6 +2235,7 @@
             ],
             "id": "oc4ids-iuq5r5_366"
         },
+
         {
             "title": "LILONGWE DROUGHT RESILIENCE PROGRAMME",
             "description": "The project seeks to expand the Water Treatment Facilities by providing an additional 50 000m3/day.",
