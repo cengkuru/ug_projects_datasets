@@ -1,0 +1,3 @@
+INSERT INTO eimt.monitoring_report_codes (id, user_id, code, projectTitle, created_at, updated_at, assemblyEmail, procuringEntityEmail) VALUES (7, 3, 'BKSudv', 'Upgrading of Kokompe Light-Industrial Enclave', '2023-05-24 01:58:10', '2023-05-24 01:58:10', null, null);
+INSERT INTO eimt.monitoring_report_codes (id, user_id, code, projectTitle, created_at, updated_at, assemblyEmail, procuringEntityEmail) VALUES (8, 3, 'NMFWDx', 'Construction Of Cassava Processing Centre', '2023-05-24 02:26:10', '2023-05-24 02:26:10', null, null);
+INSERT INTO eimt.monitoring_report_codes (id, user_id, code, projectTitle, created_at, updated_at, assemblyEmail, procuringEntityEmail) VALUES (9, 3, '5eA59a', 'test personal project', '2023-05-29 09:15:08', '2023-05-29 09:15:08', null, null);
